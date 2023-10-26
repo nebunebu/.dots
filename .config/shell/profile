@@ -1,0 +1,29 @@
+export PATH="${PATH}:\
+${HOME}/.local/bin/:\
+${HOME}/.scripts/:\
+${HOME}/.local/go/bin:\
+${HOME}/.cargo/bin"
+
+# export GOPATH="${HOME}/.local/go"
+# export XDG_CONFIG_HOME="${HOME}/.config/"
+# export XDG_CACHE_HOME="${HOME}/.cache/"
+# export XDG_DATA_HOME="${HOME}/.local/share"
+# export EDITOR="nvim"
+# export INPUTRC="${HOME}/.inputrc"
+# export TUIR_EDITOR="nvim"
+# export TUIR_EDITOR="chromium"
+# export TUIR_URLVIEWER="urlview"
+#
+# export NVIM="${XDG_CONFIG_HOME}/nvim/lua/nebu/"
+# export MIC_INPUT_NUM=$(pactl list sources | grep -B 2 'Name: alsa_input.usb-Plantronics' | awk 'NR==1 {print $2}' | cut -c 2-)
+#
+#
+#
+# alias ls='ls --color=auto'
+# alias grep='grep --color'
+# # alias n='neofetch --off'
+# alias hyprlog='cat /tmp/hypr/$(ls -t /tmp/hypr/ | head -n 2 | tail -n 1)/hyprland.log'
+# alias mvim='nvim'
+# alias dirs='dirs -v'
+# alias xremap="sudo xremap --device 'BY Tech NuPhy Halo75' ${XDG_CONFIG_HOME}/xremap/config.yml"
+

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <link rel="self" href="/feed/channel/UCRI-ey_T0_6mceexcUdtimg"/>
+
+	<entry>
+		<id>yt:video:P_AJZwyoyyE</id>
+		<yt:videoId>P_AJZwyoyyE</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>Connect to WiFi on Arch Linux Installer (archiso)</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=P_AJZwyoyyE"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=P_AJZwyoyyE">
+					<img src="/vi/P_AJZwyoyyE/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">The commands needed to connect to a wireless network on the Arch Linux installer (archiso):
+
+systemctl start iwd
+iwctl
+station list
+station wlan0 scan
+station wlan0 get-networks
+station wlan0...</p>
+			</div>
+		</content>
+		<published>2023-09-21T00:28:08+00:00</published>
+		<media:group>
+			<media:title>Connect to WiFi on Arch Linux Installer (archiso)</media:title>
+			<media:thumbnail url="/vi/P_AJZwyoyyE/mqdefault.jpg" width="320" height="180"/>
+			<media:description>The commands needed to connect to a wireless network on the Arch Linux installer (archiso):
+
+systemctl start iwd
+iwctl
+station list
+station wlan0 scan
+station wlan0 get-networks
+station wlan0...</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="589"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:IoAMafdYVp0</id>
+		<yt:videoId>IoAMafdYVp0</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>EWW Bar Popup Window/Widget | Hyprland | Arch Linux</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=IoAMafdYVp0"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=IoAMafdYVp0">
+					<img src="/vi/IoAMafdYVp0/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">Have you wanted to expand the functionality of your EWW bar? Today I explain the basic concept of creating a popup window using EWW wacky widgets.
+
+Audio Menu Video: https://youtu.be/-OGKUgHJVL4...</p>
+			</div>
+		</content>
+		<published>2023-09-20T00:28:08+00:00</published>
+		<media:group>
+			<media:title>EWW Bar Popup Window/Widget | Hyprland | Arch Linux</media:title>
+			<media:thumbnail url="/vi/IoAMafdYVp0/mqdefault.jpg" width="320" height="180"/>
+			<media:description>Have you wanted to expand the functionality of your EWW bar? Today I explain the basic concept of creating a popup window using EWW wacky widgets.
+
+Audio Menu Video: https://youtu.be/-OGKUgHJVL4...</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="1391"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:5UFnaRBo7TQ</id>
+		<yt:videoId>5UFnaRBo7TQ</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>EWW System Tray | How I did it | Hyprland | Arch Linux</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=5UFnaRBo7TQ"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=5UFnaRBo7TQ">
+					<img src="/vi/5UFnaRBo7TQ/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">In this video I explain how I achieved a fully functional EWW system tray inside of an EWW bar.</p>
+			</div>
+		</content>
+		<published>2023-09-19T00:28:08+00:00</published>
+		<media:group>
+			<media:title>EWW System Tray | How I did it | Hyprland | Arch Linux</media:title>
+			<media:thumbnail url="/vi/5UFnaRBo7TQ/mqdefault.jpg" width="320" height="180"/>
+			<media:description>In this video I explain how I achieved a fully functional EWW system tray inside of an EWW bar.</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="1189"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:tD3NFVjeAts</id>
+		<yt:videoId>tD3NFVjeAts</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>Set up Rofi App Launcher | Hyprland | Arch Linux</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=tD3NFVjeAts"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=tD3NFVjeAts">
+					<img src="/vi/tD3NFVjeAts/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">Looking for a simple app launcher / finder for your tiling window manager? Check out this clean and simple Rofi drun app launcher, which works on my Arch Linux system running Hyprland.
+
+$ sudo...</p>
+			</div>
+		</content>
+		<published>2023-09-18T00:28:08+00:00</published>
+		<media:group>
+			<media:title>Set up Rofi App Launcher | Hyprland | Arch Linux</media:title>
+			<media:thumbnail url="/vi/tD3NFVjeAts/mqdefault.jpg" width="320" height="180"/>
+			<media:description>Looking for a simple app launcher / finder for your tiling window manager? Check out this clean and simple Rofi drun app launcher, which works on my Arch Linux system running Hyprland.
+
+$ sudo...</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="2828"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:-OGKUgHJVL4</id>
+		<yt:videoId>-OGKUgHJVL4</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>Audio Devices Menu (EWW Widget) Hyprland | Arch Linux</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=-OGKUgHJVL4"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=-OGKUgHJVL4">
+					<img src="/vi/-OGKUgHJVL4/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">Ever wanted a EWW audio devices menu? I just made one for everyone to use! This is how you can set up a audio device switcher menu inside of EWW as a widget.
+
+Handy files: https://github.com/thomas...</p>
+			</div>
+		</content>
+		<published>2023-09-17T00:28:08+00:00</published>
+		<media:group>
+			<media:title>Audio Devices Menu (EWW Widget) Hyprland | Arch Linux</media:title>
+			<media:thumbnail url="/vi/-OGKUgHJVL4/mqdefault.jpg" width="320" height="180"/>
+			<media:description>Ever wanted a EWW audio devices menu? I just made one for everyone to use! This is how you can set up a audio device switcher menu inside of EWW as a widget.
+
+Handy files: https://github.com/thomas...</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="862"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:aFgGNDI41ik</id>
+		<yt:videoId>aFgGNDI41ik</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>Create a Basic EWW widget | Hyprland | Arch Linux</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=aFgGNDI41ik"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=aFgGNDI41ik">
+					<img src="/vi/aFgGNDI41ik/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">In the last video we create a basic hello world window, but today we are going to make actual widgets.
+
+eww.yuck: https://github.com/thomasolvera/yt-files/blob/main/BASIC%20WIDGET/eww.yuck...</p>
+			</div>
+		</content>
+		<published>2023-09-16T00:28:08+00:00</published>
+		<media:group>
+			<media:title>Create a Basic EWW widget | Hyprland | Arch Linux</media:title>
+			<media:thumbnail url="/vi/aFgGNDI41ik/mqdefault.jpg" width="320" height="180"/>
+			<media:description>In the last video we create a basic hello world window, but today we are going to make actual widgets.
+
+eww.yuck: https://github.com/thomasolvera/yt-files/blob/main/BASIC%20WIDGET/eww.yuck...</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="2076"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:lEuH-Z7_SYE</id>
+		<yt:videoId>lEuH-Z7_SYE</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>How to Set Up EWW: Hello World | Hyprland | Arch Linux</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=lEuH-Z7_SYE"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=lEuH-Z7_SYE">
+					<img src="/vi/lEuH-Z7_SYE/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">Today I&#39;ll be using EWW, Elkowars wacky widgets, to set up the bare minimum to get started on creating widgets on EWW. I installed mine using yay -S eww-wayland.
+
+Base Config File: https://github.c...</p>
+			</div>
+		</content>
+		<published>2023-09-15T00:28:08+00:00</published>
+		<media:group>
+			<media:title>How to Set Up EWW: Hello World | Hyprland | Arch Linux</media:title>
+			<media:thumbnail url="/vi/lEuH-Z7_SYE/mqdefault.jpg" width="320" height="180"/>
+			<media:description>Today I&#39;ll be using EWW, Elkowars wacky widgets, to set up the bare minimum to get started on creating widgets on EWW. I installed mine using yay -S eww-wayland.
+
+Base Config File: https://github.c...</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="3383"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:5eVs_qCAD7U</id>
+		<yt:videoId>5eVs_qCAD7U</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>Fix Wallpaper Banding, Compression on Windows 11</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=5eVs_qCAD7U"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=5eVs_qCAD7U">
+					<img src="/vi/5eVs_qCAD7U/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">How to fix Windows 11 wallpaper compression with a simple registry edit. Reboot once and your wallpapers will look good again.
+
+Link to 4K Windows 11 wallpaper: https://drive.google.com/drive/folde...</p>
+			</div>
+		</content>
+		<published>2023-09-14T00:28:08+00:00</published>
+		<media:group>
+			<media:title>Fix Wallpaper Banding, Compression on Windows 11</media:title>
+			<media:thumbnail url="/vi/5eVs_qCAD7U/mqdefault.jpg" width="320" height="180"/>
+			<media:description>How to fix Windows 11 wallpaper compression with a simple registry edit. Reboot once and your wallpapers will look good again.
+
+Link to 4K Windows 11 wallpaper: https://drive.google.com/drive/folde...</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="128"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:E1PYIvhuzRo</id>
+		<yt:videoId>E1PYIvhuzRo</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>Turn On Dropped Frame Indicator Premiere Pro 2023</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=E1PYIvhuzRo"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=E1PYIvhuzRo">
+					<img src="/vi/E1PYIvhuzRo/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">How to enable the dropped frame indicator inside of Adobe Premiere Pro 2023!</p>
+			</div>
+		</content>
+		<published>2023-09-13T00:28:08+00:00</published>
+		<media:group>
+			<media:title>Turn On Dropped Frame Indicator Premiere Pro 2023</media:title>
+			<media:thumbnail url="/vi/E1PYIvhuzRo/mqdefault.jpg" width="320" height="180"/>
+			<media:description>How to enable the dropped frame indicator inside of Adobe Premiere Pro 2023!</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="23"/>
+		</media:community>
+	</entry>
+
+	<entry>
+		<id>yt:video:ApaLEVXiPcs</id>
+		<yt:videoId>ApaLEVXiPcs</yt:videoId>
+		<yt:channelId>UCRI-ey_T0_6mceexcUdtimg</yt:channelId>
+		<title>Winget Users Be Like... Windows 11</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=ApaLEVXiPcs"/>
+		<author>
+			<name>Thomas Olvera</name>
+			<uri>/channel/UCRI-ey_T0_6mceexcUdtimg</uri>
+		</author>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<a href="/watch?v=ApaLEVXiPcs">
+					<img src="/vi/ApaLEVXiPcs/mqdefault.jpg"/>
+				</a>
+				<p style="word-break:break-word;white-space:pre-wrap">Who says we need Linux to use a package manager? This is how you can install apps on Windows like a sigma ;)</p>
+			</div>
+		</content>
+		<published>2023-09-12T00:28:08+00:00</published>
+		<media:group>
+			<media:title>Winget Users Be Like... Windows 11</media:title>
+			<media:thumbnail url="/vi/ApaLEVXiPcs/mqdefault.jpg" width="320" height="180"/>
+			<media:description>Who says we need Linux to use a package manager? This is how you can install apps on Windows like a sigma ;)</media:description>
+		</media:group>
+		<media:community>
+			<media:statistics views="131"/>
+		</media:community>
+	</entry>
+</feed>

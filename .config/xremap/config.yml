@@ -1,0 +1,44 @@
+modmap:
+  - name: Global
+    remap:
+      CapsLock: Esc
+
+keymap:
+  - name: discord
+    application:
+      only: discord
+    remap:
+      esc:
+        [
+          tab,
+          { set_mode: discord-nav },
+          { launch: [ "notify-send", "Discord Navigation Mode" ] }
+        ]
+
+  - name: discord-nav
+    exact_match: true
+    mode: discord-nav
+    application:
+      only: discord
+    remap:
+      i:
+        [
+          esc,
+          { set_mode: default },
+          { launch: [ "notify-send", "Default Mode" ] }
+        ]
+      # naviagation
+      k: up
+      j: down
+      h: shift_l-f6
+      l: f6
+      # Toogle between last server and DMs
+      space: ctrl-alt-right
+      # Navigate to current call
+      c: ctrl-shift-alt-v
+      q:
+        [
+          ctrl-k,
+          { set_mode: default },
+          { launch: [ "notify-send", "Default Mode" ] }
+        ]

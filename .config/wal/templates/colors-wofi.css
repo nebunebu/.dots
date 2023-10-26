@@ -1,0 +1,26 @@
+window {{
+	margin: 5px;
+	border: 2px solid {color3};
+	border-radius: 12;
+	background-color: {background};
+	color: {foreground};
+}}
+
+#input {{
+	margin: 5px;
+	border: 2px solid green;
+	background-color: {color4};
+}}
+
+#inner-box {{
+	margin: 5px;
+	border: 2px solid {color1};
+}}
+
+#entry:selected {{
+	background-color: {color5};
+}}
+
+#text:selected {{
+	background-color: {color6};
+}}

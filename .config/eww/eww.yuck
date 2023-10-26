@@ -1,0 +1,57 @@
+(include "./volume.yuck")
+
+(defwindow example
+  :monitor 0
+  :geometry (geometry :x "0%"
+                      :y "20px"
+                      :width "90%"
+                      :height "30px"
+                      :anchor "top center")
+  :stacking "fg"
+  :reserve (struts :distance "40px" :side "top")
+  :windowtype "dock"
+  :wm-ignore false
+  ;; (greeter :text "Say hello!"
+  ;;          :name "Tim")
+  ;; (labeled-container :name "foo"
+  ;;   (button :onclick "notify-send hey ho"
+  ;;     "click me"))
+  (two-boxes)
+  )
+
+(defwindow example1
+  :monitor 1
+  :geometry (geometry :x "0%"
+                      :y "20px"
+                      :width "90%"
+                      :height "30px"
+                      :anchor "top center")
+  :stacking "fg"
+  :reserve (struts :distance "40px" :side "top")
+  :windowtype "dock"
+  :wm-ignore false
+  ;; (greeter :text "Say hello!"
+  ;;          :name "Tim")
+  ;; (labeled-container :name "foo"
+  ;;   (button :onclick "notify-send hey ho"
+  ;;     "click me"))
+  (two-boxes)
+  )
+
+(defwidget greeter [?text name]
+  (box :orientation "horizontal"
+       :halign "center"
+    text
+    (button :onclick "notify-send 'Hello' 'Hello, ${name}'" 
+            "Greet")))
+
+(defwidget labeled-container [name]
+  (box :class "container"
+    name
+    (children)))
+
+(defwidget two-boxes []
+  (box
+    (box :class "first" (children :nth 0))
+    (box :class "second" (children :nth 1))))
+
