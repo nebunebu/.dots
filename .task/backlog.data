@@ -1,0 +1,187 @@
+{"description":"Set up jellyfin container on @archwifi","entry":"20230821T192131Z","modified":"20230821T192131Z","status":"pending","uuid":"78904fdb-7f77-4df3-95be-0501c26a572f"}
+{"description":"Set up automatic updates on @archwifi","entry":"20230821T192210Z","modified":"20230821T192210Z","status":"pending","uuid":"a87d7a43-82d6-4b64-9e76-9415bcf80c65"}
+{"description":"Fix flameshot section grabber lag","entry":"20230821T192321Z","modified":"20230821T192321Z","status":"pending","uuid":"c5ca6e65-0bf0-4683-ad44-1a2304c0356f"}
+{"description":"Set up good clipboard manager","entry":"20230821T192347Z","modified":"20230821T192347Z","status":"pending","uuid":"b84f4395-ef83-46b9-b515-efa1285d2e3e"}
+{"description":"Fix waybar workspace hover colors","entry":"20230821T192420Z","modified":"20230821T192420Z","status":"pending","uuid":"59581abc-a912-4b32-a60d-dc135709c8cf"}
+{"description":"Block youtube","entry":"20230823T210115Z","modified":"20230823T210115Z","status":"pending","uuid":"b3055922-beb5-44dc-a411-756839c71402"}
+{"description":"set up ssh keys","entry":"20230905T101705Z","modified":"20230905T101705Z","status":"pending","uuid":"2f70cb81-0884-42f3-85c4-5bd7c52cb59c"}
+{"description":"set up tmux","entry":"20230905T101713Z","modified":"20230905T101713Z","status":"pending","uuid":"3bb1a171-308b-4100-b27f-d16da12ace55"}
+{"description":"Set up jellyfin container on @archwifi","end":"20230907T103703Z","entry":"20230821T192131Z","modified":"20230907T103703Z","status":"completed","uuid":"78904fdb-7f77-4df3-95be-0501c26a572f"}
+{"description":"Fix waybar workspace hover colors","end":"20230907T103712Z","entry":"20230821T192420Z","modified":"20230907T103712Z","status":"completed","uuid":"59581abc-a912-4b32-a60d-dc135709c8cf"}
+{"description":"Fix flameshot section grabber lag","end":"20230907T103728Z","entry":"20230821T192321Z","modified":"20230907T103730Z","status":"deleted","uuid":"c5ca6e65-0bf0-4683-ad44-1a2304c0356f"}
+{"description":"Make nvim auto set on syntax highlighting for filetype=conf","entry":"20230907T103812Z","modified":"20230907T103812Z","status":"pending","uuid":"0ba8ac73-7fea-4607-aa56-8ee1dc2e85d2"}
+{"description":"Get kitty vi-mode block and beam cursor working","entry":"20230907T220402Z","modified":"20230907T220402Z","status":"pending","uuid":"63520786-c1bd-4c4b-b96b-9a5d0763b29f"}
+{"description":"Fix wofi css","entry":"20230907T220444Z","modified":"20230907T220444Z","status":"pending","uuid":"c2c194bf-3a9c-4344-aaed-66cd3ac6e4bb"}
+{"description":"Finish Hotkey Popup","entry":"20230907T220510Z","modified":"20230907T220510Z","status":"pending","uuid":"8e23ca45-015b-472b-a41c-71a6c5b87a8b"}
+{"description":"Make wofi menu for virsh and ssh servers","entry":"20230907T220603Z","modified":"20230907T220603Z","status":"pending","uuid":"f7043acf-e1e9-48dc-bce4-918e5892a347"}
+{"description":"Dynamically add reserved area to DP-2 when discover-overlay is running","entry":"20230907T220645Z","modified":"20230907T220645Z","status":"pending","uuid":"8b997336-055e-416c-a7ef-66aabaf98549"}
+{"description":"Add notifications when recording and notify what screens","entry":"20230907T220744Z","modified":"20230907T220744Z","status":"pending","uuid":"2c9f0411-ef1a-4947-9e48-c0242bbe014c"}
+{"description":"Set mako notifications to specific screen","entry":"20230907T220812Z","modified":"20230907T220812Z","status":"pending","uuid":"3b266f16-456b-49ee-99c4-e52cee87698f"}
+{"description":"Make nvim auto set on syntax highlighting for filetype=conf","end":"20230907T220836Z","entry":"20230907T103812Z","modified":"20230907T220836Z","status":"completed","uuid":"0ba8ac73-7fea-4607-aa56-8ee1dc2e85d2"}
+{"description":"Set grub theme","entry":"20230907T220937Z","modified":"20230907T220937Z","status":"pending","uuid":"c59213a6-4f73-486b-9fc4-adaecade1b0d"}
+{"description":"Set new sddm theme","entry":"20230907T220947Z","modified":"20230907T220947Z","status":"pending","uuid":"2296fd56-6eea-4a00-b7fa-815ecd298c8e"}
+{"description":"Set up ssh for phone","entry":"20230907T221016Z","modified":"20230907T221016Z","status":"pending","uuid":"2c96ffcf-1f6b-4cdc-99e0-a1a55c2b9bbb"}
+{"description":"Set up screenrecording with wf-recorder","entry":"20230907T222035Z","modified":"20230907T222035Z","status":"pending","uuid":"02ed91fa-145b-4598-a260-1c58943645b0"}
+{"description":"set up ssh keys","end":"20230907T222101Z","entry":"20230905T101705Z","modified":"20230907T222103Z","status":"deleted","uuid":"2f70cb81-0884-42f3-85c4-5bd7c52cb59c"}
+{"description":"Make extension for downloading pgns after chess games","entry":"20230907T232435Z","modified":"20230907T232435Z","status":"pending","uuid":"d26caec1-645e-45ef-92dd-28b15e70ac77"}
+{"description":"Set up snownews","entry":"20230907T232444Z","modified":"20230907T232444Z","status":"pending","uuid":"1db56753-fb15-44b2-af6a-763b05ad2167"}
+{"description":"Set up taskwarrior server","entry":"20230907T232514Z","modified":"20230907T232514Z","status":"pending","uuid":"18bad44f-a2b4-47e0-a13e-cfa08b799e0e"}
+{"description":"Set up timewarrior hook and make pomodoro app with notifications","entry":"20230907T232559Z","modified":"20230907T232559Z","status":"pending","uuid":"8a1a6233-0511-4d55-8682-7ab28b249ec5"}
+{"description":"Set up minimal neovim for servers","entry":"20230907T232658Z","modified":"20230907T232658Z","status":"pending","uuid":"bd5f9d6c-e86f-47fc-862c-f7f62e9691c1"}
+{"description":"Write cli tool to email books to kindle","entry":"20230907T234129Z","modified":"20230907T234129Z","status":"pending","uuid":"acbdbb06-9a23-4947-9075-cf5a33ac8076"}
+{"description":"Write tool to auto-organize download folder","entry":"20230907T234151Z","modified":"20230907T234151Z","status":"pending","uuid":"fbed596f-43de-4780-8cc6-d5d3796daf34"}
+{"description":"make lazy vim not change color when updating","entry":"20230907T234218Z","modified":"20230907T234218Z","status":"pending","uuid":"91832849-5386-41d1-a623-6c51fc0e09e5"}
+{"description":"Set up automatic updates on @archwifi","end":"20230907T234351Z","entry":"20230821T192210Z","modified":"20230907T234353Z","status":"deleted","uuid":"a87d7a43-82d6-4b64-9e76-9415bcf80c65"}
+{"description":"Set grub theme","end":"20230908T013515Z","entry":"20230907T220937Z","modified":"20230908T013515Z","status":"completed","uuid":"c59213a6-4f73-486b-9fc4-adaecade1b0d"}
+{"description":"sddm autologin","entry":"20230908T013538Z","modified":"20230908T013538Z","status":"pending","uuid":"9270a810-28d5-4026-9ed0-2d3fc6010ac8"}
+{"description":"Set new sddm theme","end":"20230908T014829Z","entry":"20230907T220947Z","modified":"20230908T014829Z","status":"completed","uuid":"2296fd56-6eea-4a00-b7fa-815ecd298c8e"}
+{"description":"sddm autologin","end":"20230908T014829Z","entry":"20230908T013538Z","modified":"20230908T014829Z","status":"completed","uuid":"9270a810-28d5-4026-9ed0-2d3fc6010ac8"}
+{"description":"Add boot splash screen","entry":"20230908T015340Z","modified":"20230908T015340Z","status":"pending","uuid":"45f6ae80-9c13-4c05-a462-6a37252c5ee6"}
+{"description":"set kitty right click copy\/paste menu","entry":"20230908T022739Z","modified":"20230908T022739Z","status":"pending","uuid":"f0ebb829-2616-4f47-b4bd-c4dd38fd86de"}
+{"description":"Set sixv bg color","entry":"20230908T104727Z","modified":"20230908T104727Z","status":"pending","uuid":"a838c0b4-b4df-4a54-8751-785f35aa4024"}
+{"description":"Set sixv size","entry":"20230908T104744Z","modified":"20230908T104744Z","status":"pending","uuid":"5694a928-552e-4349-94da-0df4c9760303"}
+{"description":"Set sixv bg color","end":"20230908T104856Z","entry":"20230908T104727Z","modified":"20230908T104859Z","status":"deleted","uuid":"a838c0b4-b4df-4a54-8751-785f35aa4024"}
+{"description":"Set sixv size","end":"20230908T104859Z","entry":"20230908T104744Z","modified":"20230908T104859Z","status":"deleted","uuid":"5694a928-552e-4349-94da-0df4c9760303"}
+{"description":"Get lf floating window rule working","entry":"20230908T113055Z","modified":"20230908T113055Z","status":"pending","uuid":"192f56ca-1f76-44c2-806a-bed83b74eeb9"}
+{"description":"When swallowed, nonmaster windows are closed, they do not return to original state, but master state. Fix","entry":"20230908T113354Z","modified":"20230908T113354Z","status":"pending","uuid":"6d0582bd-16bb-49b6-af0a-15db0a24bb16"}
+{"description":"set up color for task.rc","entry":"20230908T113838Z","modified":"20230908T113838Z","status":"pending","uuid":"c1203696-21d8-4b44-ba2e-b10fe5562e0f"}
+{"description":"Set up rtv","entry":"20230908T114921Z","modified":"20230908T114921Z","status":"pending","uuid":"992e8166-038b-4f3a-b0d3-9738f4150ec6"}
+{"description":"Set up rtv","end":"20230908T115007Z","entry":"20230908T114921Z","modified":"20230908T115009Z","status":"deleted","uuid":"992e8166-038b-4f3a-b0d3-9738f4150ec6"}
+{"description":"Set up tuir","entry":"20230908T115227Z","modified":"20230908T115227Z","status":"pending","uuid":"2ed57ab8-3ef8-4f66-8c31-4b95fadd58fb"}
+{"description":"Rewrite sww-changer for multimonitor support","entry":"20230908T115246Z","modified":"20230908T115246Z","status":"pending","uuid":"169a1607-9a1b-405b-9752-1f3a70386e3c"}
+{"description":"Add mpv keybind for downloading images\/videos with tuir","entry":"20230908T140714Z","modified":"20230908T140714Z","status":"pending","uuid":"77da1ae0-9d3d-478d-bf22-36684c8c2384"}
+{"description":"change animations for opening file with mpv from tuir","entry":"20230908T140742Z","modified":"20230908T140742Z","status":"pending","uuid":"f9d7f09c-fc97-4696-8bad-d445906b0614"}
+{"description":"get tuir logged in as user","entry":"20230908T140756Z","modified":"20230908T140756Z","status":"pending","uuid":"a706451c-d750-451a-9edb-34cc84bde78c"}
+{"description":"Set up tuir","end":"20230908T144345Z","entry":"20230908T115227Z","modified":"20230908T144345Z","status":"completed","uuid":"2ed57ab8-3ef8-4f66-8c31-4b95fadd58fb"}
+{"description":"get tuir logged in as user","end":"20230908T144345Z","entry":"20230908T140756Z","modified":"20230908T144345Z","status":"completed","uuid":"a706451c-d750-451a-9edb-34cc84bde78c"}
+{"description":"Fix tuir opens direct youtube links with chrome, not mpv","entry":"20230908T144801Z","modified":"20230908T144801Z","status":"pending","uuid":"92af7192-4d44-4b80-beec-c22f0bd4e390"}
+{"description":"Get kitty vi-mode block and beam cursor working","end":"20230908T170325Z","entry":"20230907T220402Z","modified":"20230908T170325Z","status":"completed","uuid":"63520786-c1bd-4c4b-b96b-9a5d0763b29f"}
+{"description":"set kitty right click copy\/paste menu","end":"20230908T171101Z","entry":"20230908T022739Z","modified":"20230908T171101Z","status":"completed","uuid":"f0ebb829-2616-4f47-b4bd-c4dd38fd86de"}
+{"description":"Set up good clipboard manager","end":"20230908T173001Z","entry":"20230821T192347Z","modified":"20230908T173001Z","status":"completed","uuid":"b84f4395-ef83-46b9-b515-efa1285d2e3e"}
+{"description":"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy","entry":"20230908T174512Z","modified":"20230908T174512Z","status":"pending","uuid":"a2b5a948-6391-4aea-b476-6706e9bccbb5"}
+{"description":"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy","end":"20230908T174908Z","entry":"20230908T174512Z","modified":"20230908T174910Z","status":"deleted","uuid":"a2b5a948-6391-4aea-b476-6706e9bccbb5"}
+{"description":"Set up virsh wofi menu","entry":"20230908T203133Z","modified":"20230908T203133Z","status":"pending","uuid":"7b9c137c-7748-4ccd-bcc6-615a33e78fd9"}
+{"description":"set up monitor brightness keybinds","entry":"20230911T011905Z","modified":"20230911T011905Z","status":"pending","uuid":"595a70f0-880b-4006-9f1d-338692bd3f62"}
+{"description":"set up zsh","entry":"20230911T022333Z","modified":"20230911T022333Z","status":"pending","uuid":"d01b6edc-df8c-4a08-88fc-ceef1f077e31"}
+{"description":"set up xremap","entry":"20230911T022342Z","modified":"20230911T022342Z","status":"pending","uuid":"1d22e7a0-9498-4bb7-8667-43732ad7b75c"}
+{"description":"get wpg working for wallpapers and colors","entry":"20230911T044056Z","modified":"20230911T044056Z","status":"pending","uuid":"c8495ffd-9b58-4fcb-8eef-853dbd20e560"}
+{"description":"Fix wofi css","end":"20230912T163511Z","entry":"20230907T220444Z","modified":"20230912T163511Z","status":"completed","uuid":"c2c194bf-3a9c-4344-aaed-66cd3ac6e4bb"}
+{"description":"set up zsh","end":"20230913T020611Z","entry":"20230911T022333Z","modified":"20230913T020611Z","status":"completed","uuid":"d01b6edc-df8c-4a08-88fc-ceef1f077e31"}
+{"description":"make a start page","entry":"20230913T020916Z","modified":"20230913T020916Z","status":"pending","uuid":"9534d10d-8bf5-45e4-b4bb-d2701b2a9dea"}
+{"description":"Block youtube","end":"20230915T010059Z","entry":"20230823T210115Z","modified":"20230915T010059Z","status":"completed","uuid":"b3055922-beb5-44dc-a411-756839c71402"}
+{"description":"alias mdcat to cat just for md","entry":"20230915T171847Z","modified":"20230915T171847Z","status":"pending","uuid":"a5fa371a-482c-4967-83b0-cc4b49f4e4fb"}
+{"description":"hook timewarrior to task warrior","entry":"20231002T231941Z","modified":"20231002T231941Z","status":"pending","uuid":"e12bee6f-2df0-405d-bdce-de91570fe5f5"}
+{"description":"set up pass","entry":"20231002T232136Z","modified":"20231002T232136Z","status":"pending","uuid":"250d1627-b886-40a7-ad36-10f07b444d05"}
+{"description":"set up neomutt","entry":"20231002T232144Z","modified":"20231002T232144Z","status":"pending","uuid":"b9c6ee8f-23c5-44c2-8f5e-8558602bb488"}
+{"description":"add website to start page","entry":"20231002T232201Z","modified":"20231002T232201Z","status":"pending","uuid":"4e3da5cd-cb90-456b-8346-722c3564ef64"}
+{"description":"add blog to start page","entry":"20231002T232211Z","modified":"20231002T232211Z","status":"pending","uuid":"6fdf8848-c67c-49a2-bc91-dec2a8b77f39"}
+{"description":"fix waybar","entry":"20231002T233514Z","modified":"20231002T233514Z","project":"waybar","status":"pending","uuid":"92c9ae07-61de-4db3-bcc6-6e19e75e8d3d"}
+{"description":"fix waybar","end":"20231002T233920Z","entry":"20231002T233514Z","modified":"20231002T233922Z","project":"waybar","status":"deleted","uuid":"92c9ae07-61de-4db3-bcc6-6e19e75e8d3d"}
+{"description":"24","entry":"20231002T234022Z","modified":"20231002T234022Z","project":"tuir","status":"pending","uuid":"c33448ea-0469-4e82-a60e-e87d5c1f3452"}
+{"description":"24","end":"20231002T234040Z","entry":"20231002T234022Z","modified":"20231002T234042Z","project":"tuir","status":"deleted","uuid":"c33448ea-0469-4e82-a60e-e87d5c1f3452"}
+{"description":"Fix tuir opens direct youtube links with chrome, not mpv","entry":"20230908T144801Z","modified":"20231002T234210Z","project":"tuir","status":"pending","uuid":"92af7192-4d44-4b80-beec-c22f0bd4e390"}
+{"description":"fix open youtube direct links with mpv","entry":"20230908T144801Z","modified":"20231002T234312Z","project":"tuir","status":"pending","uuid":"92af7192-4d44-4b80-beec-c22f0bd4e390"}
+{"description":"Set up snownews","end":"20231002T234419Z","entry":"20230907T232444Z","modified":"20231002T234420Z","status":"deleted","uuid":"1db56753-fb15-44b2-af6a-763b05ad2167"}
+{"description":"Set up taskwarrior server","entry":"20230907T232514Z","modified":"20231002T234536Z","project":"twarrior","status":"pending","uuid":"18bad44f-a2b4-47e0-a13e-cfa08b799e0e"}
+{"description":"Set up timewarrior hook and make pomodoro app with notifications","entry":"20230907T232559Z","modified":"20231002T234536Z","project":"twarrior","status":"pending","uuid":"8a1a6233-0511-4d55-8682-7ab28b249ec5"}
+{"description":"hook timewarrior to task warrior","entry":"20231002T231941Z","modified":"20231002T234536Z","project":"twarrior","status":"pending","uuid":"e12bee6f-2df0-405d-bdce-de91570fe5f5"}
+{"description":"Dynamically add reserved area to DP-2 when discover-overlay is running","end":"20231002T234603Z","entry":"20230907T220645Z","modified":"20231002T234603Z","status":"completed","uuid":"8b997336-055e-416c-a7ef-66aabaf98549"}
+{"description":"Set mako notifications to specific screen","end":"20231002T234650Z","entry":"20230907T220812Z","modified":"20231002T234652Z","status":"deleted","uuid":"3b266f16-456b-49ee-99c4-e52cee87698f"}
+{"description":"Add mpv keybind for downloading images\/videos with tuir","entry":"20230908T140714Z","modified":"20231002T234751Z","project":"mpv","status":"pending","uuid":"77da1ae0-9d3d-478d-bf22-36684c8c2384"}
+{"description":"add systray for pomodoro","entry":"20231002T234909Z","modified":"20231002T234909Z","project":"twarrior","status":"pending","uuid":"75690cdf-c872-4b38-9b5f-312d221d1016"}
+{"description":"Finish Hotkey Popup","entry":"20230907T220510Z","modified":"20231002T235131Z","project":"menu-scripts","status":"pending","uuid":"8e23ca45-015b-472b-a41c-71a6c5b87a8b"}
+{"description":"Make wofi menu for virsh and ssh servers","entry":"20230907T220603Z","modified":"20231002T235131Z","project":"menu-scripts","status":"pending","uuid":"f7043acf-e1e9-48dc-bce4-918e5892a347"}
+{"description":"Set up ssh for phone","entry":"20230907T221016Z","modified":"20231002T235131Z","project":"menu-scripts","status":"pending","uuid":"2c96ffcf-1f6b-4cdc-99e0-a1a55c2b9bbb"}
+{"description":"Set up virsh wofi menu","entry":"20230908T203133Z","modified":"20231002T235131Z","project":"menu-scripts","status":"pending","uuid":"7b9c137c-7748-4ccd-bcc6-615a33e78fd9"}
+{"description":"fix hot reloading","entry":"20231002T235338Z","modified":"20231002T235338Z","project":"xremap","status":"pending","uuid":"faaa9419-9c66-4845-981e-d932f1b3c119"}
+{"description":"set binds for discord","entry":"20231002T235354Z","modified":"20231002T235354Z","project":"xremap","status":"pending","uuid":"0bde7ea5-f28a-4093-af7f-6248c06828f1"}
+{"description":"autostart in .config\/hypr\/exec.conf","entry":"20231002T235422Z","modified":"20231002T235422Z","project":"xremap","status":"pending","uuid":"76c13216-01c7-4564-b021-9bbabea2f4c3"}
+{"description":"set up xremap","end":"20231002T235450Z","entry":"20230911T022342Z","modified":"20231002T235451Z","status":"deleted","uuid":"1d22e7a0-9498-4bb7-8667-43732ad7b75c"}
+{"description":"make a start page","entry":"20230913T020916Z","modified":"20231002T235615Z","project":"personal-site","status":"pending","uuid":"9534d10d-8bf5-45e4-b4bb-d2701b2a9dea"}
+{"description":"add website to start page","entry":"20231002T232201Z","modified":"20231002T235615Z","project":"personal-site","status":"pending","uuid":"4e3da5cd-cb90-456b-8346-722c3564ef64"}
+{"description":"add blog to start page","entry":"20231002T232211Z","modified":"20231002T235615Z","project":"personal-site","status":"pending","uuid":"6fdf8848-c67c-49a2-bc91-dec2a8b77f39"}
+{"description":"change icons for swaync","entry":"20231002T235925Z","modified":"20231002T235925Z","project":"waybar","status":"pending","uuid":"2985ef46-ec43-4644-bcbb-d779d26ec777"}
+{"description":"add module for screen-recording","entry":"20231003T000002Z","modified":"20231003T000002Z","project":"waybar","status":"pending","uuid":"96b62566-cdce-4364-bddc-85f7d73f80ea"}
+{"description":"add module for xremap mode","entry":"20231003T000047Z","modified":"20231003T000047Z","project":"waybar","status":"pending","uuid":"a9fa4e6f-07d7-4f3b-97e2-7146c9e099e5"}
+{"description":"add module for hyprland submap","entry":"20231003T000101Z","modified":"20231003T000101Z","project":"waybar","status":"pending","uuid":"9a57366c-c4ed-46d1-9c99-d05c84e99ee0"}
+{"description":"Add notifications when recording and notify what screens","end":"20231003T000147Z","entry":"20230907T220744Z","modified":"20231003T000147Z","status":"completed","uuid":"2c9f0411-ef1a-4947-9e48-c0242bbe014c"}
+{"description":"Get lf floating window rule working","end":"20231003T000217Z","entry":"20230908T113055Z","modified":"20231003T000219Z","status":"deleted","uuid":"192f56ca-1f76-44c2-806a-bed83b74eeb9"}
+{"description":"display gallaries project tuir","entry":"20231003T000307Z","modified":"20231003T000307Z","status":"pending","uuid":"fac41a78-4b0a-4e2f-94b7-0932a82b6f54"}
+{"description":"When swallowed, nonmaster windows are closed, they do not return to original state, but master state. Fix","entry":"20230908T113354Z","modified":"20231003T000339Z","project":"hyprland","status":"pending","uuid":"6d0582bd-16bb-49b6-af0a-15db0a24bb16"}
+{"description":"change animations for opening file with mpv from tuir","entry":"20230908T140742Z","modified":"20231003T000406Z","project":"tuir","status":"pending","uuid":"f9d7f09c-fc97-4696-8bad-d445906b0614"}
+{"description":"get wpg working for wallpapers and colors","end":"20231003T000412Z","entry":"20230911T044056Z","modified":"20231003T000414Z","status":"deleted","uuid":"c8495ffd-9b58-4fcb-8eef-853dbd20e560"}
+{"description":"change autocomplete keybind","entry":"20231003T000525Z","modified":"20231003T000525Z","project":"zsh","status":"pending","uuid":"e9e4fb65-1d7f-447c-badd-f67cadb3fdea"}
+{"description":"fix vi-mode paste","entry":"20231003T000544Z","modified":"20231003T000544Z","project":"zsh","status":"pending","uuid":"f2de13fd-f0bc-4852-a0e7-4263e890d9c0"}
+{"description":"fix hist search (get fzf plugin)","entry":"20231003T000610Z","modified":"20231003T000610Z","project":"zsh","status":"pending","uuid":"2432d8b4-409e-412e-90f2-0f881a033b8e"}
+{"description":"display gallaries project tuir","entry":"20231003T000307Z","modified":"20231003T000750Z","project":"tuir","status":"pending","uuid":"fac41a78-4b0a-4e2f-94b7-0932a82b6f54"}
+{"description":"fix boot splash screen","entry":"20230907T234218Z","modified":"20231003T000827Z","project":"grub","status":"pending","uuid":"91832849-5386-41d1-a623-6c51fc0e09e5"}
+{"description":"fix grub not listing other partitions","entry":"20231003T001000Z","modified":"20231003T001000Z","project":"grub","status":"pending","uuid":"84f25d02-45c7-4b23-b99e-d20a2e59ecdb"}
+{"description":"Set up screenrecording with wf-recorder","end":"20231003T001103Z","entry":"20230907T222035Z","modified":"20231003T001103Z","status":"completed","uuid":"02ed91fa-145b-4598-a260-1c58943645b0"}
+{"description":"switch kernel to vanilla","entry":"20231003T002215Z","modified":"20231003T002215Z","project":"sys","status":"pending","uuid":"201e513c-7bfe-4cb9-bd8d-4e3f88b4f0cd"}
+{"description":"swithc \/bin\/sh to dash","entry":"20231003T002321Z","modified":"20231003T002321Z","project":"sys","status":"pending","uuid":"c98b9f94-0d19-4888-ae4a-0553f72c6a27"}
+{"description":"switch \/bin\/sh to dash","entry":"20231003T002321Z","modified":"20231003T002346Z","project":"sys","status":"pending","uuid":"c98b9f94-0d19-4888-ae4a-0553f72c6a27"}
+{"description":"switch sudo to doas","entry":"20231003T002423Z","modified":"20231003T002423Z","project":"sys","status":"pending","uuid":"8f7aeaae-d81e-48f7-9502-b9bc98c0d818"}
+{"description":"fix autologin briefly showing desktop prior to shutdown","entry":"20231003T002541Z","modified":"20231003T002541Z","project":"sddm","status":"pending","uuid":"e4db0880-b98e-4399-9553-d478bfa2a086"}
+{"description":"add theme","entry":"20231003T002553Z","modified":"20231003T002553Z","project":"sddm","status":"pending","uuid":"34e01fa7-c56c-424a-ba1f-c82ba45a0662"}
+{"description":"fix floating windows not perserving place in stack","entry":"20231003T002634Z","modified":"20231003T002634Z","project":"hyprland","status":"pending","uuid":"eae0691d-d961-43e8-ac9f-6f64a7070ca7"}
+{"description":"add submap for silently sending windows to other workspaces","entry":"20231003T002707Z","modified":"20231003T002707Z","project":"hyprland","status":"pending","uuid":"7c08cf19-70bf-4a14-a197-20bd2382659d"}
+{"description":"fix moving focus to tiled windows","entry":"20231003T002736Z","modified":"20231003T002736Z","project":"hyprland","status":"pending","uuid":"1bb8eb3d-9598-4bee-a925-3037aa54b9ee"}
+{"description":"set keybind for pinning windows","entry":"20231003T002757Z","modified":"20231003T002757Z","project":"hyprland","status":"pending","uuid":"e0e68161-73a5-4f3d-8f76-1bf2f97b81d2"}
+{"description":"add preview epub","entry":"20231003T002955Z","modified":"20231003T002955Z","project":"hunter","status":"pending","uuid":"4f9a6c89-b09a-4346-8c48-0153a00f21df"}
+{"description":"add preview mp4","entry":"20231003T003005Z","modified":"20231003T003005Z","project":"hunter","status":"pending","uuid":"56517739-e195-4dff-a19a-f9f33774367a"}
+{"description":"add preview webm","entry":"20231003T003010Z","modified":"20231003T003010Z","project":"hunter","status":"pending","uuid":"6dbb008d-9304-4de4-a779-333a0ff5add1"}
+{"description":"add preview gif","entry":"20231003T003018Z","modified":"20231003T003018Z","project":"hunter","status":"pending","uuid":"6188430b-de6e-4b78-9bb7-da82104caa39"}
+{"description":"add preview mkv","entry":"20231003T003027Z","modified":"20231003T003027Z","project":"hunter","status":"pending","uuid":"b827dc57-9edc-46b1-8faa-307e86e4c2ff"}
+{"description":"fix preview without explicit file extension","entry":"20231003T003052Z","modified":"20231003T003052Z","project":"hunter","status":"pending","uuid":"f4355be4-195e-4363-b7d1-da6698591bfb"}
+{"description":"fix preview symlinked file","entry":"20231003T003102Z","modified":"20231003T003102Z","project":"hunter","status":"pending","uuid":"fd9d9ec5-a3af-478a-ab38-f2f14642f25e"}
+{"description":"add keybind delete","entry":"20231003T003114Z","modified":"20231003T003114Z","project":"hunter","status":"pending","uuid":"47699995-994a-49dc-b8c7-e899aaef4a7e"}
+{"description":"add keybind rename\/mv","entry":"20231003T003124Z","modified":"20231003T003124Z","project":"hunter","status":"pending","uuid":"f9bad9ba-c420-4574-954f-e6b25b3b6129"}
+{"description":"add keybind copy","entry":"20231003T003141Z","modified":"20231003T003141Z","project":"hunter","status":"pending","uuid":"65bff751-df0b-4ecb-b3a5-f993d5632e4a"}
+{"description":"open with nvim\/browser\/whatever else","entry":"20231003T003203Z","modified":"20231003T003203Z","project":"hunter","status":"pending","uuid":"48c53e0c-d0fa-41d0-b7c4-9585b633b890"}
+{"description":"add volume overlay","entry":"20231003T003417Z","modified":"20231003T003417Z","project":"eww","status":"pending","uuid":"bde4acdf-6bda-403e-aa47-b3c6a2022d0a"}
+{"description":"add mic overlay","entry":"20231003T003424Z","modified":"20231003T003424Z","project":"eww","status":"pending","uuid":"930c38b1-cd52-4807-9944-a5133fe17b61"}
+{"description":"add screen brightness overlay","entry":"20231003T003432Z","modified":"20231003T003432Z","project":"eww","status":"pending","uuid":"4d4e4b86-3288-414b-9571-79f04783a20f"}
+{"description":"fix swaync-client always on DP-1","entry":"20231003T003524Z","modified":"20231003T003524Z","project":"swaync","status":"pending","uuid":"ee057cab-a314-4150-b0a1-fb452e610039"}
+{"description":"style in accord with wallpaper","entry":"20231003T003539Z","modified":"20231003T003539Z","project":"swaync","status":"pending","uuid":"d7c7425a-218c-421e-b62f-c2542d9e09f3"}
+{"description":"add keybind to toggle open swaync","entry":"20231003T003616Z","modified":"20231003T003616Z","project":"hyprland","status":"pending","uuid":"7e926133-2957-45df-8233-bd0f0379ba9d"}
+{"description":"dynamically reserve space for swaync","entry":"20231003T003638Z","modified":"20231003T003638Z","project":"hyprland","status":"pending","uuid":"b12696b8-a117-465e-aca4-a26cdd55c214"}
+{"description":"add style","entry":"20231003T003653Z","modified":"20231003T003653Z","project":"swaync","status":"pending","uuid":"b2694192-0448-49bb-b282-d943c48b1dbd"}
+{"description":"add keybidn to dismiss client","entry":"20231003T003728Z","modified":"20231003T003728Z","project":"swaync","status":"pending","uuid":"eea60d3a-f2fc-4281-9349-eebee69243e7"}
+{"description":"fix emoji not rendering most of the time","entry":"20231003T003848Z","modified":"20231003T003848Z","project":"font","status":"pending","uuid":"1c586135-bebc-47a4-a866-3cb726fec3dc"}
+{"description":"% sometimes shows when opening new terminal","entry":"20231003T003928Z","modified":"20231003T003928Z","project":"zsh","status":"pending","uuid":"a3159230-ab97-4ad5-9510-6a0faceb300a"}
+{"description":"fix % showing sometimes when opening new terminal","entry":"20231003T003928Z","modified":"20231003T004531Z","project":"zsh","status":"pending","uuid":"a3159230-ab97-4ad5-9510-6a0faceb300a"}
+{"description":"set browser qutebrowser","entry":"20231003T005337Z","modified":"20231003T005337Z","project":"tuir","status":"pending","uuid":"48b700db-9d1f-4ca7-9a0d-05ddfca970e5"}
+{"description":"set browser qutebrowser","entry":"20231003T005349Z","modified":"20231003T005349Z","project":"newsboat","status":"pending","uuid":"fd674fcb-dc48-461d-aa18-431f5e3b0279"}
+{"description":"bind key download video as webm","entry":"20231003T005504Z","modified":"20231003T005504Z","project":"mpv","status":"pending","uuid":"e455cc42-7382-4fc7-9770-020852ac58f8"}
+{"description":"Add mpv keybind for downloading images\/videos with tuir","end":"20231003T005516Z","entry":"20230908T140714Z","modified":"20231003T005519Z","project":"mpv","status":"deleted","uuid":"77da1ae0-9d3d-478d-bf22-36684c8c2384"}
+{"description":"set up tmux","end":"20231003T010047Z","entry":"20230905T101713Z","modified":"20231003T010049Z","status":"deleted","uuid":"3bb1a171-308b-4100-b27f-d16da12ace55"}
+{"description":"install plugin manager","entry":"20231003T010110Z","modified":"20231003T010110Z","project":"tmux","status":"pending","uuid":"c7110cc5-8117-4ca2-a729-b2a449ba54a4"}
+{"description":"reload does not minimize to tray","entry":"20231003T010157Z","modified":"20231003T010157Z","project":"anki","status":"pending","uuid":"3e611c1a-65b3-45a9-a425-c8ef502927f1"}
+{"description":"rebind scrollback","entry":"20231003T010245Z","modified":"20231003T010245Z","project":"kitty","status":"pending","uuid":"9fa9257d-ac32-44ee-b7f9-c61a53caed45"}
+{"description":"copy from scrollback buffer","entry":"20231003T010304Z","modified":"20231003T010304Z","project":"kitty","status":"pending","uuid":"0f1765f7-0f37-4054-bb34-af5333028de7"}
+{"description":"set up color for task.rc","end":"20231003T010517Z","entry":"20230908T113838Z","modified":"20231003T010519Z","status":"deleted","uuid":"c1203696-21d8-4b44-ba2e-b10fe5562e0f"}
+{"description":"switch prompt from oh-my-posh","entry":"20231003T012133Z","modified":"20231003T012133Z","project":"zsh","status":"pending","uuid":"11274446-d31a-43a5-abc0-efb6aa7889ac"}
+{"description":"set vimkeys for movement (rm fuzzy find)","entry":"20231003T012336Z","modified":"20231003T012336Z","project":"ytfzf","status":"pending","uuid":"eea255f6-779d-4ed2-ac95-39b007ca4db6"}
+{"description":"fix window focus cycling when window is fullscreened","entry":"20231003T012625Z","modified":"20231003T012625Z","project":"hyprland","status":"pending","uuid":"3f139f7b-56fa-4b15-951e-e80a23e85aa8"}
+{"description":"set color for workspace displayed on non-focused monitor","entry":"20231003T013109Z","modified":"20231003T013109Z","project":"waybar","status":"pending","uuid":"56b78a64-103e-425c-9148-9296b67315a3"}
+{"description":"install plugin manager","end":"20231003T030839Z","entry":"20231003T010110Z","modified":"20231003T030839Z","project":"tmux","status":"completed","uuid":"c7110cc5-8117-4ca2-a729-b2a449ba54a4"}
+{"description":"fix status bar","entry":"20231003T033641Z","modified":"20231003T033641Z","project":"tmux","status":"pending","uuid":"ccfe70b9-2b6d-4701-af92-5a8bb065e104"}
+{"description":"add pomodoro","entry":"20231003T033700Z","modified":"20231003T033700Z","project":"tmux","status":"pending","uuid":"19719e77-9c76-4e69-8ffa-61ae379c8d32"}
+{"description":"add module for tmux pomodoro","entry":"20231003T033723Z","modified":"20231003T033723Z","project":"waybar","status":"pending","uuid":"04a226fa-9ac3-401b-8bb1-d24f266bad02"}
+{"description":"add fingers","entry":"20231003T033734Z","modified":"20231003T033734Z","project":"tmux","status":"pending","uuid":"835609f6-d8e2-4cc4-b407-e0f5cc490135"}
+{"description":"add resurrect","entry":"20231003T033752Z","modified":"20231003T033752Z","project":"tmux","status":"pending","uuid":"41242ad5-43e5-4df4-9f2a-fbb9b13fb516"}
+{"description":"fix messing up tray on DP-2","entry":"20231004T141715Z","modified":"20231004T141715Z","project":"swaync","status":"pending","uuid":"df519ff4-72c4-47ed-886f-e00a689e744a"}
+{"description":"fix messing up tray on DP-2","end":"20231005T041508Z","entry":"20231004T141715Z","modified":"20231005T041508Z","project":"swaync","status":"completed","uuid":"df519ff4-72c4-47ed-886f-e00a689e744a"}
+{"description":"fix toggles open clicking anywhere on waybar","entry":"20231005T043051Z","modified":"20231005T043051Z","project":"swaync","status":"pending","uuid":"6019a846-9eea-4eae-b09a-8acd383ca5ad"}
+{"description":"set up luasnip","entry":"20231005T063942Z","modified":"20231005T063942Z","project":"nvim","status":"pending","uuid":"713caa2c-6bbf-482a-853e-7c411e6caf03"}
+{"description":"set up rust lsp","entry":"20231005T063952Z","modified":"20231005T063952Z","project":"nvim","status":"pending","uuid":"9121bbca-5a01-43d7-b603-48ce73dcbd75"}
+{"description":"set up ftplugin for shell script templates","entry":"20231005T064016Z","modified":"20231005T064016Z","project":"nvim","status":"pending","uuid":"c306e8cb-10a0-4196-93db-4084d45b1f2c"}
+{"description":"add pomodoro","end":"20231014T101033Z","entry":"20231003T033700Z","modified":"20231014T101035Z","project":"tmux","status":"deleted","uuid":"19719e77-9c76-4e69-8ffa-61ae379c8d32"}
+{"description":"fix so that pywal colors are set in tmux","entry":"20231014T101109Z","modified":"20231014T101109Z","project":"tmux","status":"pending","uuid":"3caa9790-76ac-4873-b9df-07a5e2f0aca0"}
+{"description":"set up and replace pywal","entry":"20231014T103746Z","modified":"20231014T103746Z","project":"wallust","status":"pending","uuid":"355f0825-6a2b-4f68-bb59-da7fb92b5cfd"}
+{"description":"get clipboard working","entry":"20231014T211946Z","modified":"20231014T211946Z","project":"qutebrowser","status":"pending","uuid":"a19cedba-3cdb-4480-b29c-cfa69ff494d8"}
+{"description":"get printenv hover working","entry":"20231014T222159Z","modified":"20231014T222159Z","project":"nvim","status":"pending","uuid":"557a41f3-6c46-4dd1-a90f-cd6a5c272106"}
+{"description":"get vale latex server working","entry":"20231014T232554Z","modified":"20231014T232554Z","project":"nvim","status":"pending","uuid":"a20fbd82-5e9d-4948-b4ce-1065a46cc727"}
+{"description":"add dap","entry":"20231015T024140Z","modified":"20231015T024140Z","project":"nvim","status":"pending","uuid":"50a32b21-d18d-4914-9322-cdbc945f1347"}
+{"description":"neotree ask which window to open file in","entry":"20231015T175208Z","modified":"20231015T175208Z","project":"nvim","status":"pending","uuid":"772d7ec2-922c-4e3b-b48c-d3450f39bac0"}
+{"description":"get hsl and hs linter working","entry":"20231017T051616Z","modified":"20231017T051616Z","project":"nvim","status":"pending","uuid":"7bbda10f-1c09-4d5a-824a-013958fc3356"}

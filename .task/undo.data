@@ -1,0 +1,617 @@
+time 1692645691
+new [description:"Set up jellyfin container on @archwifi" entry:"1692645691" modified:"1692645691" status:"pending" uuid:"78904fdb-7f77-4df3-95be-0501c26a572f"]
+---
+time 1692645730
+new [description:"Set up automatic updates on @archwifi" entry:"1692645730" modified:"1692645730" status:"pending" uuid:"a87d7a43-82d6-4b64-9e76-9415bcf80c65"]
+---
+time 1692645801
+new [description:"Fix flameshot section grabber lag" entry:"1692645801" modified:"1692645801" status:"pending" uuid:"c5ca6e65-0bf0-4683-ad44-1a2304c0356f"]
+---
+time 1692645827
+new [description:"Set up good clipboard manager" entry:"1692645827" modified:"1692645827" status:"pending" uuid:"b84f4395-ef83-46b9-b515-efa1285d2e3e"]
+---
+time 1692645860
+new [description:"Fix waybar workspace hover colors" entry:"1692645860" modified:"1692645860" status:"pending" uuid:"59581abc-a912-4b32-a60d-dc135709c8cf"]
+---
+time 1692824475
+new [description:"Block youtube" entry:"1692824475" modified:"1692824475" status:"pending" uuid:"b3055922-beb5-44dc-a411-756839c71402"]
+---
+time 1693909025
+new [description:"set up ssh keys" entry:"1693909025" modified:"1693909025" status:"pending" uuid:"2f70cb81-0884-42f3-85c4-5bd7c52cb59c"]
+---
+time 1693909033
+new [description:"set up tmux" entry:"1693909033" modified:"1693909033" status:"pending" uuid:"3bb1a171-308b-4100-b27f-d16da12ace55"]
+---
+time 1694083023
+old [description:"Set up jellyfin container on @archwifi" entry:"1692645691" modified:"1692645691" status:"pending" uuid:"78904fdb-7f77-4df3-95be-0501c26a572f"]
+new [description:"Set up jellyfin container on @archwifi" end:"1694083023" entry:"1692645691" modified:"1694083023" status:"completed" uuid:"78904fdb-7f77-4df3-95be-0501c26a572f"]
+---
+time 1694083032
+old [description:"Fix waybar workspace hover colors" entry:"1692645860" modified:"1692645860" status:"pending" uuid:"59581abc-a912-4b32-a60d-dc135709c8cf"]
+new [description:"Fix waybar workspace hover colors" end:"1694083032" entry:"1692645860" modified:"1694083032" status:"completed" uuid:"59581abc-a912-4b32-a60d-dc135709c8cf"]
+---
+time 1694083050
+old [description:"Fix flameshot section grabber lag" entry:"1692645801" modified:"1692645801" status:"pending" uuid:"c5ca6e65-0bf0-4683-ad44-1a2304c0356f"]
+new [description:"Fix flameshot section grabber lag" end:"1694083048" entry:"1692645801" modified:"1694083050" status:"deleted" uuid:"c5ca6e65-0bf0-4683-ad44-1a2304c0356f"]
+---
+time 1694083092
+new [description:"Make nvim auto set on syntax highlighting for filetype=conf" entry:"1694083092" modified:"1694083092" status:"pending" uuid:"0ba8ac73-7fea-4607-aa56-8ee1dc2e85d2"]
+---
+time 1694124242
+new [description:"Get kitty vi-mode block and beam cursor working" entry:"1694124242" modified:"1694124242" status:"pending" uuid:"63520786-c1bd-4c4b-b96b-9a5d0763b29f"]
+---
+time 1694124284
+new [description:"Fix wofi css" entry:"1694124284" modified:"1694124284" status:"pending" uuid:"c2c194bf-3a9c-4344-aaed-66cd3ac6e4bb"]
+---
+time 1694124310
+new [description:"Finish Hotkey Popup" entry:"1694124310" modified:"1694124310" status:"pending" uuid:"8e23ca45-015b-472b-a41c-71a6c5b87a8b"]
+---
+time 1694124363
+new [description:"Make wofi menu for virsh and ssh servers" entry:"1694124363" modified:"1694124363" status:"pending" uuid:"f7043acf-e1e9-48dc-bce4-918e5892a347"]
+---
+time 1694124405
+new [description:"Dynamically add reserved area to DP-2 when discover-overlay is running" entry:"1694124405" modified:"1694124405" status:"pending" uuid:"8b997336-055e-416c-a7ef-66aabaf98549"]
+---
+time 1694124464
+new [description:"Add notifications when recording and notify what screens" entry:"1694124464" modified:"1694124464" status:"pending" uuid:"2c9f0411-ef1a-4947-9e48-c0242bbe014c"]
+---
+time 1694124492
+new [description:"Set mako notifications to specific screen" entry:"1694124492" modified:"1694124492" status:"pending" uuid:"3b266f16-456b-49ee-99c4-e52cee87698f"]
+---
+time 1694124516
+old [description:"Make nvim auto set on syntax highlighting for filetype=conf" entry:"1694083092" modified:"1694083092" status:"pending" uuid:"0ba8ac73-7fea-4607-aa56-8ee1dc2e85d2"]
+new [description:"Make nvim auto set on syntax highlighting for filetype=conf" end:"1694124516" entry:"1694083092" modified:"1694124516" status:"completed" uuid:"0ba8ac73-7fea-4607-aa56-8ee1dc2e85d2"]
+---
+time 1694124577
+new [description:"Set grub theme" entry:"1694124577" modified:"1694124577" status:"pending" uuid:"c59213a6-4f73-486b-9fc4-adaecade1b0d"]
+---
+time 1694124587
+new [description:"Set new sddm theme" entry:"1694124587" modified:"1694124587" status:"pending" uuid:"2296fd56-6eea-4a00-b7fa-815ecd298c8e"]
+---
+time 1694124616
+new [description:"Set up ssh for phone" entry:"1694124616" modified:"1694124616" status:"pending" uuid:"2c96ffcf-1f6b-4cdc-99e0-a1a55c2b9bbb"]
+---
+time 1694125235
+new [description:"Set up screenrecording with wf-recorder" entry:"1694125235" modified:"1694125235" status:"pending" uuid:"02ed91fa-145b-4598-a260-1c58943645b0"]
+---
+time 1694125263
+old [description:"set up ssh keys" entry:"1693909025" modified:"1693909025" status:"pending" uuid:"2f70cb81-0884-42f3-85c4-5bd7c52cb59c"]
+new [description:"set up ssh keys" end:"1694125261" entry:"1693909025" modified:"1694125263" status:"deleted" uuid:"2f70cb81-0884-42f3-85c4-5bd7c52cb59c"]
+---
+time 1694129075
+new [description:"Make extension for downloading pgns after chess games" entry:"1694129075" modified:"1694129075" status:"pending" uuid:"d26caec1-645e-45ef-92dd-28b15e70ac77"]
+---
+time 1694129084
+new [description:"Set up snownews" entry:"1694129084" modified:"1694129084" status:"pending" uuid:"1db56753-fb15-44b2-af6a-763b05ad2167"]
+---
+time 1694129114
+new [description:"Set up taskwarrior server" entry:"1694129114" modified:"1694129114" status:"pending" uuid:"18bad44f-a2b4-47e0-a13e-cfa08b799e0e"]
+---
+time 1694129159
+new [description:"Set up timewarrior hook and make pomodoro app with notifications" entry:"1694129159" modified:"1694129159" status:"pending" uuid:"8a1a6233-0511-4d55-8682-7ab28b249ec5"]
+---
+time 1694129218
+new [description:"Set up minimal neovim for servers" entry:"1694129218" modified:"1694129218" status:"pending" uuid:"bd5f9d6c-e86f-47fc-862c-f7f62e9691c1"]
+---
+time 1694130089
+new [description:"Write cli tool to email books to kindle" entry:"1694130089" modified:"1694130089" status:"pending" uuid:"acbdbb06-9a23-4947-9075-cf5a33ac8076"]
+---
+time 1694130111
+new [description:"Write tool to auto-organize download folder" entry:"1694130111" modified:"1694130111" status:"pending" uuid:"fbed596f-43de-4780-8cc6-d5d3796daf34"]
+---
+time 1694130138
+new [description:"make lazy vim not change color when updating" entry:"1694130138" modified:"1694130138" status:"pending" uuid:"91832849-5386-41d1-a623-6c51fc0e09e5"]
+---
+time 1694130233
+old [description:"Set up automatic updates on @archwifi" entry:"1692645730" modified:"1692645730" status:"pending" uuid:"a87d7a43-82d6-4b64-9e76-9415bcf80c65"]
+new [description:"Set up automatic updates on @archwifi" end:"1694130231" entry:"1692645730" modified:"1694130233" status:"deleted" uuid:"a87d7a43-82d6-4b64-9e76-9415bcf80c65"]
+---
+time 1694136915
+old [description:"Set grub theme" entry:"1694124577" modified:"1694124577" status:"pending" uuid:"c59213a6-4f73-486b-9fc4-adaecade1b0d"]
+new [description:"Set grub theme" end:"1694136915" entry:"1694124577" modified:"1694136915" status:"completed" uuid:"c59213a6-4f73-486b-9fc4-adaecade1b0d"]
+---
+time 1694136939
+new [description:"sddm autologin" entry:"1694136938" modified:"1694136938" status:"pending" uuid:"9270a810-28d5-4026-9ed0-2d3fc6010ac8"]
+---
+time 1694137709
+old [description:"Set new sddm theme" entry:"1694124587" modified:"1694124587" status:"pending" uuid:"2296fd56-6eea-4a00-b7fa-815ecd298c8e"]
+new [description:"Set new sddm theme" end:"1694137709" entry:"1694124587" modified:"1694137709" status:"completed" uuid:"2296fd56-6eea-4a00-b7fa-815ecd298c8e"]
+---
+time 1694137709
+old [description:"sddm autologin" entry:"1694136938" modified:"1694136938" status:"pending" uuid:"9270a810-28d5-4026-9ed0-2d3fc6010ac8"]
+new [description:"sddm autologin" end:"1694137709" entry:"1694136938" modified:"1694137709" status:"completed" uuid:"9270a810-28d5-4026-9ed0-2d3fc6010ac8"]
+---
+time 1694138020
+new [description:"Add boot splash screen" entry:"1694138020" modified:"1694138020" status:"pending" uuid:"45f6ae80-9c13-4c05-a462-6a37252c5ee6"]
+---
+time 1694140060
+new [description:"set kitty right click copy\/paste menu" entry:"1694140059" modified:"1694140059" status:"pending" uuid:"f0ebb829-2616-4f47-b4bd-c4dd38fd86de"]
+---
+time 1694170047
+new [description:"Set sixv bg color" entry:"1694170047" modified:"1694170047" status:"pending" uuid:"a838c0b4-b4df-4a54-8751-785f35aa4024"]
+---
+time 1694170064
+new [description:"Set sixv size" entry:"1694170064" modified:"1694170064" status:"pending" uuid:"5694a928-552e-4349-94da-0df4c9760303"]
+---
+time 1694170139
+old [description:"Set sixv bg color" entry:"1694170047" modified:"1694170047" status:"pending" uuid:"a838c0b4-b4df-4a54-8751-785f35aa4024"]
+new [description:"Set sixv bg color" end:"1694170136" entry:"1694170047" modified:"1694170139" status:"deleted" uuid:"a838c0b4-b4df-4a54-8751-785f35aa4024"]
+---
+time 1694170139
+old [description:"Set sixv size" entry:"1694170064" modified:"1694170064" status:"pending" uuid:"5694a928-552e-4349-94da-0df4c9760303"]
+new [description:"Set sixv size" end:"1694170139" entry:"1694170064" modified:"1694170139" status:"deleted" uuid:"5694a928-552e-4349-94da-0df4c9760303"]
+---
+time 1694172655
+new [description:"Get lf floating window rule working" entry:"1694172655" modified:"1694172655" status:"pending" uuid:"192f56ca-1f76-44c2-806a-bed83b74eeb9"]
+---
+time 1694172834
+new [description:"When swallowed, nonmaster windows are closed, they do not return to original state, but master state. Fix" entry:"1694172834" modified:"1694172834" status:"pending" uuid:"6d0582bd-16bb-49b6-af0a-15db0a24bb16"]
+---
+time 1694173118
+new [description:"set up color for task.rc" entry:"1694173118" modified:"1694173118" status:"pending" uuid:"c1203696-21d8-4b44-ba2e-b10fe5562e0f"]
+---
+time 1694173761
+new [description:"Set up rtv" entry:"1694173761" modified:"1694173761" status:"pending" uuid:"992e8166-038b-4f3a-b0d3-9738f4150ec6"]
+---
+time 1694173809
+old [description:"Set up rtv" entry:"1694173761" modified:"1694173761" status:"pending" uuid:"992e8166-038b-4f3a-b0d3-9738f4150ec6"]
+new [description:"Set up rtv" end:"1694173807" entry:"1694173761" modified:"1694173809" status:"deleted" uuid:"992e8166-038b-4f3a-b0d3-9738f4150ec6"]
+---
+time 1694173947
+new [description:"Set up tuir" entry:"1694173947" modified:"1694173947" status:"pending" uuid:"2ed57ab8-3ef8-4f66-8c31-4b95fadd58fb"]
+---
+time 1694173967
+new [description:"Rewrite sww-changer for multimonitor support" entry:"1694173966" modified:"1694173966" status:"pending" uuid:"169a1607-9a1b-405b-9752-1f3a70386e3c"]
+---
+time 1694182034
+new [description:"Add mpv keybind for downloading images\/videos with tuir" entry:"1694182034" modified:"1694182034" status:"pending" uuid:"77da1ae0-9d3d-478d-bf22-36684c8c2384"]
+---
+time 1694182062
+new [description:"change animations for opening file with mpv from tuir" entry:"1694182062" modified:"1694182062" status:"pending" uuid:"f9d7f09c-fc97-4696-8bad-d445906b0614"]
+---
+time 1694182076
+new [description:"get tuir logged in as user" entry:"1694182076" modified:"1694182076" status:"pending" uuid:"a706451c-d750-451a-9edb-34cc84bde78c"]
+---
+time 1694184225
+old [description:"Set up tuir" entry:"1694173947" modified:"1694173947" status:"pending" uuid:"2ed57ab8-3ef8-4f66-8c31-4b95fadd58fb"]
+new [description:"Set up tuir" end:"1694184225" entry:"1694173947" modified:"1694184225" status:"completed" uuid:"2ed57ab8-3ef8-4f66-8c31-4b95fadd58fb"]
+---
+time 1694184225
+old [description:"get tuir logged in as user" entry:"1694182076" modified:"1694182076" status:"pending" uuid:"a706451c-d750-451a-9edb-34cc84bde78c"]
+new [description:"get tuir logged in as user" end:"1694184225" entry:"1694182076" modified:"1694184225" status:"completed" uuid:"a706451c-d750-451a-9edb-34cc84bde78c"]
+---
+time 1694184481
+new [description:"Fix tuir opens direct youtube links with chrome, not mpv" entry:"1694184481" modified:"1694184481" status:"pending" uuid:"92af7192-4d44-4b80-beec-c22f0bd4e390"]
+---
+time 1694192605
+old [description:"Get kitty vi-mode block and beam cursor working" entry:"1694124242" modified:"1694124242" status:"pending" uuid:"63520786-c1bd-4c4b-b96b-9a5d0763b29f"]
+new [description:"Get kitty vi-mode block and beam cursor working" end:"1694192605" entry:"1694124242" modified:"1694192605" status:"completed" uuid:"63520786-c1bd-4c4b-b96b-9a5d0763b29f"]
+---
+time 1694193061
+old [description:"set kitty right click copy\/paste menu" entry:"1694140059" modified:"1694140059" status:"pending" uuid:"f0ebb829-2616-4f47-b4bd-c4dd38fd86de"]
+new [description:"set kitty right click copy\/paste menu" end:"1694193061" entry:"1694140059" modified:"1694193061" status:"completed" uuid:"f0ebb829-2616-4f47-b4bd-c4dd38fd86de"]
+---
+time 1694194201
+old [description:"Set up good clipboard manager" entry:"1692645827" modified:"1692645827" status:"pending" uuid:"b84f4395-ef83-46b9-b515-efa1285d2e3e"]
+new [description:"Set up good clipboard manager" end:"1694194201" entry:"1692645827" modified:"1694194201" status:"completed" uuid:"b84f4395-ef83-46b9-b515-efa1285d2e3e"]
+---
+time 1694195112
+new [description:"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy" entry:"1694195112" modified:"1694195112" status:"pending" uuid:"a2b5a948-6391-4aea-b476-6706e9bccbb5"]
+---
+time 1694195350
+old [description:"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy" entry:"1694195112" modified:"1694195112" status:"pending" uuid:"a2b5a948-6391-4aea-b476-6706e9bccbb5"]
+new [description:"yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy" end:"1694195348" entry:"1694195112" modified:"1694195350" status:"deleted" uuid:"a2b5a948-6391-4aea-b476-6706e9bccbb5"]
+---
+time 1694205093
+new [description:"Set up virsh wofi menu" entry:"1694205093" modified:"1694205093" status:"pending" uuid:"7b9c137c-7748-4ccd-bcc6-615a33e78fd9"]
+---
+time 1694395145
+new [description:"set up monitor brightness keybinds" entry:"1694395145" modified:"1694395145" status:"pending" uuid:"595a70f0-880b-4006-9f1d-338692bd3f62"]
+---
+time 1694399013
+new [description:"set up zsh" entry:"1694399013" modified:"1694399013" status:"pending" uuid:"d01b6edc-df8c-4a08-88fc-ceef1f077e31"]
+---
+time 1694399022
+new [description:"set up xremap" entry:"1694399022" modified:"1694399022" status:"pending" uuid:"1d22e7a0-9498-4bb7-8667-43732ad7b75c"]
+---
+time 1694407256
+new [description:"get wpg working for wallpapers and colors" entry:"1694407256" modified:"1694407256" status:"pending" uuid:"c8495ffd-9b58-4fcb-8eef-853dbd20e560"]
+---
+time 1694536511
+old [description:"Fix wofi css" entry:"1694124284" modified:"1694124284" status:"pending" uuid:"c2c194bf-3a9c-4344-aaed-66cd3ac6e4bb"]
+new [description:"Fix wofi css" end:"1694536511" entry:"1694124284" modified:"1694536511" status:"completed" uuid:"c2c194bf-3a9c-4344-aaed-66cd3ac6e4bb"]
+---
+time 1694570771
+old [description:"set up zsh" entry:"1694399013" modified:"1694399013" status:"pending" uuid:"d01b6edc-df8c-4a08-88fc-ceef1f077e31"]
+new [description:"set up zsh" end:"1694570771" entry:"1694399013" modified:"1694570771" status:"completed" uuid:"d01b6edc-df8c-4a08-88fc-ceef1f077e31"]
+---
+time 1694570956
+new [description:"make a start page" entry:"1694570956" modified:"1694570956" status:"pending" uuid:"9534d10d-8bf5-45e4-b4bb-d2701b2a9dea"]
+---
+time 1694739659
+old [description:"Block youtube" entry:"1692824475" modified:"1692824475" status:"pending" uuid:"b3055922-beb5-44dc-a411-756839c71402"]
+new [description:"Block youtube" end:"1694739659" entry:"1692824475" modified:"1694739659" status:"completed" uuid:"b3055922-beb5-44dc-a411-756839c71402"]
+---
+time 1694798327
+new [description:"alias mdcat to cat just for md" entry:"1694798327" modified:"1694798327" status:"pending" uuid:"a5fa371a-482c-4967-83b0-cc4b49f4e4fb"]
+---
+time 1696288781
+new [description:"hook timewarrior to task warrior" entry:"1696288781" modified:"1696288781" status:"pending" uuid:"e12bee6f-2df0-405d-bdce-de91570fe5f5"]
+---
+time 1696288896
+new [description:"set up pass" entry:"1696288896" modified:"1696288896" status:"pending" uuid:"250d1627-b886-40a7-ad36-10f07b444d05"]
+---
+time 1696288904
+new [description:"set up neomutt" entry:"1696288904" modified:"1696288904" status:"pending" uuid:"b9c6ee8f-23c5-44c2-8f5e-8558602bb488"]
+---
+time 1696288921
+new [description:"add website to start page" entry:"1696288921" modified:"1696288921" status:"pending" uuid:"4e3da5cd-cb90-456b-8346-722c3564ef64"]
+---
+time 1696288931
+new [description:"add blog to start page" entry:"1696288931" modified:"1696288931" status:"pending" uuid:"6fdf8848-c67c-49a2-bc91-dec2a8b77f39"]
+---
+time 1696289714
+new [description:"fix waybar" entry:"1696289714" modified:"1696289714" project:"waybar" status:"pending" uuid:"92c9ae07-61de-4db3-bcc6-6e19e75e8d3d"]
+---
+time 1696289962
+old [description:"fix waybar" entry:"1696289714" modified:"1696289714" project:"waybar" status:"pending" uuid:"92c9ae07-61de-4db3-bcc6-6e19e75e8d3d"]
+new [description:"fix waybar" end:"1696289960" entry:"1696289714" modified:"1696289962" project:"waybar" status:"deleted" uuid:"92c9ae07-61de-4db3-bcc6-6e19e75e8d3d"]
+---
+time 1696290023
+new [description:"24" entry:"1696290022" modified:"1696290022" project:"tuir" status:"pending" uuid:"c33448ea-0469-4e82-a60e-e87d5c1f3452"]
+---
+time 1696290042
+old [description:"24" entry:"1696290022" modified:"1696290022" project:"tuir" status:"pending" uuid:"c33448ea-0469-4e82-a60e-e87d5c1f3452"]
+new [description:"24" end:"1696290040" entry:"1696290022" modified:"1696290042" project:"tuir" status:"deleted" uuid:"c33448ea-0469-4e82-a60e-e87d5c1f3452"]
+---
+time 1696290130
+old [description:"Fix tuir opens direct youtube links with chrome, not mpv" entry:"1694184481" modified:"1694184481" status:"pending" uuid:"92af7192-4d44-4b80-beec-c22f0bd4e390"]
+new [description:"Fix tuir opens direct youtube links with chrome, not mpv" entry:"1694184481" modified:"1696290130" project:"tuir" status:"pending" uuid:"92af7192-4d44-4b80-beec-c22f0bd4e390"]
+---
+time 1696290192
+old [description:"Fix tuir opens direct youtube links with chrome, not mpv" entry:"1694184481" modified:"1696290130" project:"tuir" status:"pending" uuid:"92af7192-4d44-4b80-beec-c22f0bd4e390"]
+new [description:"fix open youtube direct links with mpv" entry:"1694184481" modified:"1696290192" project:"tuir" status:"pending" uuid:"92af7192-4d44-4b80-beec-c22f0bd4e390"]
+---
+time 1696290260
+old [description:"Set up snownews" entry:"1694129084" modified:"1694129084" status:"pending" uuid:"1db56753-fb15-44b2-af6a-763b05ad2167"]
+new [description:"Set up snownews" end:"1696290259" entry:"1694129084" modified:"1696290260" status:"deleted" uuid:"1db56753-fb15-44b2-af6a-763b05ad2167"]
+---
+time 1696290336
+old [description:"Set up taskwarrior server" entry:"1694129114" modified:"1694129114" status:"pending" uuid:"18bad44f-a2b4-47e0-a13e-cfa08b799e0e"]
+new [description:"Set up taskwarrior server" entry:"1694129114" modified:"1696290336" project:"twarrior" status:"pending" uuid:"18bad44f-a2b4-47e0-a13e-cfa08b799e0e"]
+---
+time 1696290336
+old [description:"Set up timewarrior hook and make pomodoro app with notifications" entry:"1694129159" modified:"1694129159" status:"pending" uuid:"8a1a6233-0511-4d55-8682-7ab28b249ec5"]
+new [description:"Set up timewarrior hook and make pomodoro app with notifications" entry:"1694129159" modified:"1696290336" project:"twarrior" status:"pending" uuid:"8a1a6233-0511-4d55-8682-7ab28b249ec5"]
+---
+time 1696290336
+old [description:"hook timewarrior to task warrior" entry:"1696288781" modified:"1696288781" status:"pending" uuid:"e12bee6f-2df0-405d-bdce-de91570fe5f5"]
+new [description:"hook timewarrior to task warrior" entry:"1696288781" modified:"1696290336" project:"twarrior" status:"pending" uuid:"e12bee6f-2df0-405d-bdce-de91570fe5f5"]
+---
+time 1696290363
+old [description:"Dynamically add reserved area to DP-2 when discover-overlay is running" entry:"1694124405" modified:"1694124405" status:"pending" uuid:"8b997336-055e-416c-a7ef-66aabaf98549"]
+new [description:"Dynamically add reserved area to DP-2 when discover-overlay is running" end:"1696290363" entry:"1694124405" modified:"1696290363" status:"completed" uuid:"8b997336-055e-416c-a7ef-66aabaf98549"]
+---
+time 1696290412
+old [description:"Set mako notifications to specific screen" entry:"1694124492" modified:"1694124492" status:"pending" uuid:"3b266f16-456b-49ee-99c4-e52cee87698f"]
+new [description:"Set mako notifications to specific screen" end:"1696290410" entry:"1694124492" modified:"1696290412" status:"deleted" uuid:"3b266f16-456b-49ee-99c4-e52cee87698f"]
+---
+time 1696290471
+old [description:"Add mpv keybind for downloading images\/videos with tuir" entry:"1694182034" modified:"1694182034" status:"pending" uuid:"77da1ae0-9d3d-478d-bf22-36684c8c2384"]
+new [description:"Add mpv keybind for downloading images\/videos with tuir" entry:"1694182034" modified:"1696290471" project:"mpv" status:"pending" uuid:"77da1ae0-9d3d-478d-bf22-36684c8c2384"]
+---
+time 1696290549
+new [description:"add systray for pomodoro" entry:"1696290549" modified:"1696290549" project:"twarrior" status:"pending" uuid:"75690cdf-c872-4b38-9b5f-312d221d1016"]
+---
+time 1696290691
+old [description:"Finish Hotkey Popup" entry:"1694124310" modified:"1694124310" status:"pending" uuid:"8e23ca45-015b-472b-a41c-71a6c5b87a8b"]
+new [description:"Finish Hotkey Popup" entry:"1694124310" modified:"1696290691" project:"menu-scripts" status:"pending" uuid:"8e23ca45-015b-472b-a41c-71a6c5b87a8b"]
+---
+time 1696290691
+old [description:"Make wofi menu for virsh and ssh servers" entry:"1694124363" modified:"1694124363" status:"pending" uuid:"f7043acf-e1e9-48dc-bce4-918e5892a347"]
+new [description:"Make wofi menu for virsh and ssh servers" entry:"1694124363" modified:"1696290691" project:"menu-scripts" status:"pending" uuid:"f7043acf-e1e9-48dc-bce4-918e5892a347"]
+---
+time 1696290691
+old [description:"Set up ssh for phone" entry:"1694124616" modified:"1694124616" status:"pending" uuid:"2c96ffcf-1f6b-4cdc-99e0-a1a55c2b9bbb"]
+new [description:"Set up ssh for phone" entry:"1694124616" modified:"1696290691" project:"menu-scripts" status:"pending" uuid:"2c96ffcf-1f6b-4cdc-99e0-a1a55c2b9bbb"]
+---
+time 1696290691
+old [description:"Set up virsh wofi menu" entry:"1694205093" modified:"1694205093" status:"pending" uuid:"7b9c137c-7748-4ccd-bcc6-615a33e78fd9"]
+new [description:"Set up virsh wofi menu" entry:"1694205093" modified:"1696290691" project:"menu-scripts" status:"pending" uuid:"7b9c137c-7748-4ccd-bcc6-615a33e78fd9"]
+---
+time 1696290818
+new [description:"fix hot reloading" entry:"1696290818" modified:"1696290818" project:"xremap" status:"pending" uuid:"faaa9419-9c66-4845-981e-d932f1b3c119"]
+---
+time 1696290834
+new [description:"set binds for discord" entry:"1696290834" modified:"1696290834" project:"xremap" status:"pending" uuid:"0bde7ea5-f28a-4093-af7f-6248c06828f1"]
+---
+time 1696290862
+new [description:"autostart in .config\/hypr\/exec.conf" entry:"1696290862" modified:"1696290862" project:"xremap" status:"pending" uuid:"76c13216-01c7-4564-b021-9bbabea2f4c3"]
+---
+time 1696290891
+old [description:"set up xremap" entry:"1694399022" modified:"1694399022" status:"pending" uuid:"1d22e7a0-9498-4bb7-8667-43732ad7b75c"]
+new [description:"set up xremap" end:"1696290890" entry:"1694399022" modified:"1696290891" status:"deleted" uuid:"1d22e7a0-9498-4bb7-8667-43732ad7b75c"]
+---
+time 1696290975
+old [description:"make a start page" entry:"1694570956" modified:"1694570956" status:"pending" uuid:"9534d10d-8bf5-45e4-b4bb-d2701b2a9dea"]
+new [description:"make a start page" entry:"1694570956" modified:"1696290975" project:"personal-site" status:"pending" uuid:"9534d10d-8bf5-45e4-b4bb-d2701b2a9dea"]
+---
+time 1696290975
+old [description:"add website to start page" entry:"1696288921" modified:"1696288921" status:"pending" uuid:"4e3da5cd-cb90-456b-8346-722c3564ef64"]
+new [description:"add website to start page" entry:"1696288921" modified:"1696290975" project:"personal-site" status:"pending" uuid:"4e3da5cd-cb90-456b-8346-722c3564ef64"]
+---
+time 1696290975
+old [description:"add blog to start page" entry:"1696288931" modified:"1696288931" status:"pending" uuid:"6fdf8848-c67c-49a2-bc91-dec2a8b77f39"]
+new [description:"add blog to start page" entry:"1696288931" modified:"1696290975" project:"personal-site" status:"pending" uuid:"6fdf8848-c67c-49a2-bc91-dec2a8b77f39"]
+---
+time 1696291165
+new [description:"change icons for swaync" entry:"1696291165" modified:"1696291165" project:"waybar" status:"pending" uuid:"2985ef46-ec43-4644-bcbb-d779d26ec777"]
+---
+time 1696291202
+new [description:"add module for screen-recording" entry:"1696291202" modified:"1696291202" project:"waybar" status:"pending" uuid:"96b62566-cdce-4364-bddc-85f7d73f80ea"]
+---
+time 1696291247
+new [description:"add module for xremap mode" entry:"1696291247" modified:"1696291247" project:"waybar" status:"pending" uuid:"a9fa4e6f-07d7-4f3b-97e2-7146c9e099e5"]
+---
+time 1696291261
+new [description:"add module for hyprland submap" entry:"1696291261" modified:"1696291261" project:"waybar" status:"pending" uuid:"9a57366c-c4ed-46d1-9c99-d05c84e99ee0"]
+---
+time 1696291307
+old [description:"Add notifications when recording and notify what screens" entry:"1694124464" modified:"1694124464" status:"pending" uuid:"2c9f0411-ef1a-4947-9e48-c0242bbe014c"]
+new [description:"Add notifications when recording and notify what screens" end:"1696291307" entry:"1694124464" modified:"1696291307" status:"completed" uuid:"2c9f0411-ef1a-4947-9e48-c0242bbe014c"]
+---
+time 1696291339
+old [description:"Get lf floating window rule working" entry:"1694172655" modified:"1694172655" status:"pending" uuid:"192f56ca-1f76-44c2-806a-bed83b74eeb9"]
+new [description:"Get lf floating window rule working" end:"1696291337" entry:"1694172655" modified:"1696291339" status:"deleted" uuid:"192f56ca-1f76-44c2-806a-bed83b74eeb9"]
+---
+time 1696291387
+new [description:"display gallaries project tuir" entry:"1696291387" modified:"1696291387" status:"pending" uuid:"fac41a78-4b0a-4e2f-94b7-0932a82b6f54"]
+---
+time 1696291419
+old [description:"When swallowed, nonmaster windows are closed, they do not return to original state, but master state. Fix" entry:"1694172834" modified:"1694172834" status:"pending" uuid:"6d0582bd-16bb-49b6-af0a-15db0a24bb16"]
+new [description:"When swallowed, nonmaster windows are closed, they do not return to original state, but master state. Fix" entry:"1694172834" modified:"1696291419" project:"hyprland" status:"pending" uuid:"6d0582bd-16bb-49b6-af0a-15db0a24bb16"]
+---
+time 1696291446
+old [description:"change animations for opening file with mpv from tuir" entry:"1694182062" modified:"1694182062" status:"pending" uuid:"f9d7f09c-fc97-4696-8bad-d445906b0614"]
+new [description:"change animations for opening file with mpv from tuir" entry:"1694182062" modified:"1696291446" project:"tuir" status:"pending" uuid:"f9d7f09c-fc97-4696-8bad-d445906b0614"]
+---
+time 1696291454
+old [description:"get wpg working for wallpapers and colors" entry:"1694407256" modified:"1694407256" status:"pending" uuid:"c8495ffd-9b58-4fcb-8eef-853dbd20e560"]
+new [description:"get wpg working for wallpapers and colors" end:"1696291452" entry:"1694407256" modified:"1696291454" status:"deleted" uuid:"c8495ffd-9b58-4fcb-8eef-853dbd20e560"]
+---
+time 1696291525
+new [description:"change autocomplete keybind" entry:"1696291525" modified:"1696291525" project:"zsh" status:"pending" uuid:"e9e4fb65-1d7f-447c-badd-f67cadb3fdea"]
+---
+time 1696291544
+new [description:"fix vi-mode paste" entry:"1696291544" modified:"1696291544" project:"zsh" status:"pending" uuid:"f2de13fd-f0bc-4852-a0e7-4263e890d9c0"]
+---
+time 1696291570
+new [description:"fix hist search (get fzf plugin)" entry:"1696291570" modified:"1696291570" project:"zsh" status:"pending" uuid:"2432d8b4-409e-412e-90f2-0f881a033b8e"]
+---
+time 1696291670
+old [description:"display gallaries project tuir" entry:"1696291387" modified:"1696291387" status:"pending" uuid:"fac41a78-4b0a-4e2f-94b7-0932a82b6f54"]
+new [description:"display gallaries project tuir" entry:"1696291387" modified:"1696291670" project:"tuir" status:"pending" uuid:"fac41a78-4b0a-4e2f-94b7-0932a82b6f54"]
+---
+time 1696291707
+old [description:"make lazy vim not change color when updating" entry:"1694130138" modified:"1694130138" status:"pending" uuid:"91832849-5386-41d1-a623-6c51fc0e09e5"]
+new [description:"fix boot splash screen" entry:"1694130138" modified:"1696291707" project:"grub" status:"pending" uuid:"91832849-5386-41d1-a623-6c51fc0e09e5"]
+---
+time 1696291800
+new [description:"fix grub not listing other partitions" entry:"1696291800" modified:"1696291800" project:"grub" status:"pending" uuid:"84f25d02-45c7-4b23-b99e-d20a2e59ecdb"]
+---
+time 1696291863
+old [description:"Set up screenrecording with wf-recorder" entry:"1694125235" modified:"1694125235" status:"pending" uuid:"02ed91fa-145b-4598-a260-1c58943645b0"]
+new [description:"Set up screenrecording with wf-recorder" end:"1696291863" entry:"1694125235" modified:"1696291863" status:"completed" uuid:"02ed91fa-145b-4598-a260-1c58943645b0"]
+---
+time 1696292536
+new [description:"switch kernel to vanilla" entry:"1696292535" modified:"1696292535" project:"sys" status:"pending" uuid:"201e513c-7bfe-4cb9-bd8d-4e3f88b4f0cd"]
+---
+time 1696292601
+new [description:"swithc \/bin\/sh to dash" entry:"1696292601" modified:"1696292601" project:"sys" status:"pending" uuid:"c98b9f94-0d19-4888-ae4a-0553f72c6a27"]
+---
+time 1696292626
+old [description:"swithc \/bin\/sh to dash" entry:"1696292601" modified:"1696292601" project:"sys" status:"pending" uuid:"c98b9f94-0d19-4888-ae4a-0553f72c6a27"]
+new [description:"switch \/bin\/sh to dash" entry:"1696292601" modified:"1696292626" project:"sys" status:"pending" uuid:"c98b9f94-0d19-4888-ae4a-0553f72c6a27"]
+---
+time 1696292663
+new [description:"switch sudo to doas" entry:"1696292663" modified:"1696292663" project:"sys" status:"pending" uuid:"8f7aeaae-d81e-48f7-9502-b9bc98c0d818"]
+---
+time 1696292741
+new [description:"fix autologin briefly showing desktop prior to shutdown" entry:"1696292741" modified:"1696292741" project:"sddm" status:"pending" uuid:"e4db0880-b98e-4399-9553-d478bfa2a086"]
+---
+time 1696292753
+new [description:"add theme" entry:"1696292753" modified:"1696292753" project:"sddm" status:"pending" uuid:"34e01fa7-c56c-424a-ba1f-c82ba45a0662"]
+---
+time 1696292794
+new [description:"fix floating windows not perserving place in stack" entry:"1696292794" modified:"1696292794" project:"hyprland" status:"pending" uuid:"eae0691d-d961-43e8-ac9f-6f64a7070ca7"]
+---
+time 1696292827
+new [description:"add submap for silently sending windows to other workspaces" entry:"1696292827" modified:"1696292827" project:"hyprland" status:"pending" uuid:"7c08cf19-70bf-4a14-a197-20bd2382659d"]
+---
+time 1696292857
+new [description:"fix moving focus to tiled windows" entry:"1696292856" modified:"1696292856" project:"hyprland" status:"pending" uuid:"1bb8eb3d-9598-4bee-a925-3037aa54b9ee"]
+---
+time 1696292877
+new [description:"set keybind for pinning windows" entry:"1696292877" modified:"1696292877" project:"hyprland" status:"pending" uuid:"e0e68161-73a5-4f3d-8f76-1bf2f97b81d2"]
+---
+time 1696292995
+new [description:"add preview epub" entry:"1696292995" modified:"1696292995" project:"hunter" status:"pending" uuid:"4f9a6c89-b09a-4346-8c48-0153a00f21df"]
+---
+time 1696293005
+new [description:"add preview mp4" entry:"1696293005" modified:"1696293005" project:"hunter" status:"pending" uuid:"56517739-e195-4dff-a19a-f9f33774367a"]
+---
+time 1696293010
+new [description:"add preview webm" entry:"1696293010" modified:"1696293010" project:"hunter" status:"pending" uuid:"6dbb008d-9304-4de4-a779-333a0ff5add1"]
+---
+time 1696293018
+new [description:"add preview gif" entry:"1696293018" modified:"1696293018" project:"hunter" status:"pending" uuid:"6188430b-de6e-4b78-9bb7-da82104caa39"]
+---
+time 1696293027
+new [description:"add preview mkv" entry:"1696293027" modified:"1696293027" project:"hunter" status:"pending" uuid:"b827dc57-9edc-46b1-8faa-307e86e4c2ff"]
+---
+time 1696293052
+new [description:"fix preview without explicit file extension" entry:"1696293052" modified:"1696293052" project:"hunter" status:"pending" uuid:"f4355be4-195e-4363-b7d1-da6698591bfb"]
+---
+time 1696293062
+new [description:"fix preview symlinked file" entry:"1696293062" modified:"1696293062" project:"hunter" status:"pending" uuid:"fd9d9ec5-a3af-478a-ab38-f2f14642f25e"]
+---
+time 1696293074
+new [description:"add keybind delete" entry:"1696293074" modified:"1696293074" project:"hunter" status:"pending" uuid:"47699995-994a-49dc-b8c7-e899aaef4a7e"]
+---
+time 1696293084
+new [description:"add keybind rename\/mv" entry:"1696293084" modified:"1696293084" project:"hunter" status:"pending" uuid:"f9bad9ba-c420-4574-954f-e6b25b3b6129"]
+---
+time 1696293101
+new [description:"add keybind copy" entry:"1696293101" modified:"1696293101" project:"hunter" status:"pending" uuid:"65bff751-df0b-4ecb-b3a5-f993d5632e4a"]
+---
+time 1696293123
+new [description:"open with nvim\/browser\/whatever else" entry:"1696293123" modified:"1696293123" project:"hunter" status:"pending" uuid:"48c53e0c-d0fa-41d0-b7c4-9585b633b890"]
+---
+time 1696293257
+new [description:"add volume overlay" entry:"1696293257" modified:"1696293257" project:"eww" status:"pending" uuid:"bde4acdf-6bda-403e-aa47-b3c6a2022d0a"]
+---
+time 1696293264
+new [description:"add mic overlay" entry:"1696293264" modified:"1696293264" project:"eww" status:"pending" uuid:"930c38b1-cd52-4807-9944-a5133fe17b61"]
+---
+time 1696293272
+new [description:"add screen brightness overlay" entry:"1696293272" modified:"1696293272" project:"eww" status:"pending" uuid:"4d4e4b86-3288-414b-9571-79f04783a20f"]
+---
+time 1696293325
+new [description:"fix swaync-client always on DP-1" entry:"1696293324" modified:"1696293324" project:"swaync" status:"pending" uuid:"ee057cab-a314-4150-b0a1-fb452e610039"]
+---
+time 1696293339
+new [description:"style in accord with wallpaper" entry:"1696293339" modified:"1696293339" project:"swaync" status:"pending" uuid:"d7c7425a-218c-421e-b62f-c2542d9e09f3"]
+---
+time 1696293376
+new [description:"add keybind to toggle open swaync" entry:"1696293376" modified:"1696293376" project:"hyprland" status:"pending" uuid:"7e926133-2957-45df-8233-bd0f0379ba9d"]
+---
+time 1696293398
+new [description:"dynamically reserve space for swaync" entry:"1696293398" modified:"1696293398" project:"hyprland" status:"pending" uuid:"b12696b8-a117-465e-aca4-a26cdd55c214"]
+---
+time 1696293413
+new [description:"add style" entry:"1696293413" modified:"1696293413" project:"swaync" status:"pending" uuid:"b2694192-0448-49bb-b282-d943c48b1dbd"]
+---
+time 1696293448
+new [description:"add keybidn to dismiss client" entry:"1696293448" modified:"1696293448" project:"swaync" status:"pending" uuid:"eea60d3a-f2fc-4281-9349-eebee69243e7"]
+---
+time 1696293528
+new [description:"fix emoji not rendering most of the time" entry:"1696293528" modified:"1696293528" project:"font" status:"pending" uuid:"1c586135-bebc-47a4-a866-3cb726fec3dc"]
+---
+time 1696293568
+new [description:"% sometimes shows when opening new terminal" entry:"1696293568" modified:"1696293568" project:"zsh" status:"pending" uuid:"a3159230-ab97-4ad5-9510-6a0faceb300a"]
+---
+time 1696293931
+old [description:"% sometimes shows when opening new terminal" entry:"1696293568" modified:"1696293568" project:"zsh" status:"pending" uuid:"a3159230-ab97-4ad5-9510-6a0faceb300a"]
+new [description:"fix % showing sometimes when opening new terminal" entry:"1696293568" modified:"1696293931" project:"zsh" status:"pending" uuid:"a3159230-ab97-4ad5-9510-6a0faceb300a"]
+---
+time 1696294417
+new [description:"set browser qutebrowser" entry:"1696294417" modified:"1696294417" project:"tuir" status:"pending" uuid:"48b700db-9d1f-4ca7-9a0d-05ddfca970e5"]
+---
+time 1696294429
+new [description:"set browser qutebrowser" entry:"1696294429" modified:"1696294429" project:"newsboat" status:"pending" uuid:"fd674fcb-dc48-461d-aa18-431f5e3b0279"]
+---
+time 1696294504
+new [description:"bind key download video as webm" entry:"1696294504" modified:"1696294504" project:"mpv" status:"pending" uuid:"e455cc42-7382-4fc7-9770-020852ac58f8"]
+---
+time 1696294519
+old [description:"Add mpv keybind for downloading images\/videos with tuir" entry:"1694182034" modified:"1696290471" project:"mpv" status:"pending" uuid:"77da1ae0-9d3d-478d-bf22-36684c8c2384"]
+new [description:"Add mpv keybind for downloading images\/videos with tuir" end:"1696294516" entry:"1694182034" modified:"1696294519" project:"mpv" status:"deleted" uuid:"77da1ae0-9d3d-478d-bf22-36684c8c2384"]
+---
+time 1696294849
+old [description:"set up tmux" entry:"1693909033" modified:"1693909033" status:"pending" uuid:"3bb1a171-308b-4100-b27f-d16da12ace55"]
+new [description:"set up tmux" end:"1696294847" entry:"1693909033" modified:"1696294849" status:"deleted" uuid:"3bb1a171-308b-4100-b27f-d16da12ace55"]
+---
+time 1696294870
+new [description:"install plugin manager" entry:"1696294870" modified:"1696294870" project:"tmux" status:"pending" uuid:"c7110cc5-8117-4ca2-a729-b2a449ba54a4"]
+---
+time 1696294917
+new [description:"reload does not minimize to tray" entry:"1696294917" modified:"1696294917" project:"anki" status:"pending" uuid:"3e611c1a-65b3-45a9-a425-c8ef502927f1"]
+---
+time 1696294965
+new [description:"rebind scrollback" entry:"1696294965" modified:"1696294965" project:"kitty" status:"pending" uuid:"9fa9257d-ac32-44ee-b7f9-c61a53caed45"]
+---
+time 1696294984
+new [description:"copy from scrollback buffer" entry:"1696294984" modified:"1696294984" project:"kitty" status:"pending" uuid:"0f1765f7-0f37-4054-bb34-af5333028de7"]
+---
+time 1696295119
+old [description:"set up color for task.rc" entry:"1694173118" modified:"1694173118" status:"pending" uuid:"c1203696-21d8-4b44-ba2e-b10fe5562e0f"]
+new [description:"set up color for task.rc" end:"1696295117" entry:"1694173118" modified:"1696295119" status:"deleted" uuid:"c1203696-21d8-4b44-ba2e-b10fe5562e0f"]
+---
+time 1696296093
+new [description:"switch prompt from oh-my-posh" entry:"1696296093" modified:"1696296093" project:"zsh" status:"pending" uuid:"11274446-d31a-43a5-abc0-efb6aa7889ac"]
+---
+time 1696296216
+new [description:"set vimkeys for movement (rm fuzzy find)" entry:"1696296216" modified:"1696296216" project:"ytfzf" status:"pending" uuid:"eea255f6-779d-4ed2-ac95-39b007ca4db6"]
+---
+time 1696296385
+new [description:"fix window focus cycling when window is fullscreened" entry:"1696296385" modified:"1696296385" project:"hyprland" status:"pending" uuid:"3f139f7b-56fa-4b15-951e-e80a23e85aa8"]
+---
+time 1696296669
+new [description:"set color for workspace displayed on non-focused monitor" entry:"1696296669" modified:"1696296669" project:"waybar" status:"pending" uuid:"56b78a64-103e-425c-9148-9296b67315a3"]
+---
+time 1696302519
+old [description:"install plugin manager" entry:"1696294870" modified:"1696294870" project:"tmux" status:"pending" uuid:"c7110cc5-8117-4ca2-a729-b2a449ba54a4"]
+new [description:"install plugin manager" end:"1696302519" entry:"1696294870" modified:"1696302519" project:"tmux" status:"completed" uuid:"c7110cc5-8117-4ca2-a729-b2a449ba54a4"]
+---
+time 1696304201
+new [description:"fix status bar" entry:"1696304201" modified:"1696304201" project:"tmux" status:"pending" uuid:"ccfe70b9-2b6d-4701-af92-5a8bb065e104"]
+---
+time 1696304220
+new [description:"add pomodoro" entry:"1696304220" modified:"1696304220" project:"tmux" status:"pending" uuid:"19719e77-9c76-4e69-8ffa-61ae379c8d32"]
+---
+time 1696304243
+new [description:"add module for tmux pomodoro" entry:"1696304243" modified:"1696304243" project:"waybar" status:"pending" uuid:"04a226fa-9ac3-401b-8bb1-d24f266bad02"]
+---
+time 1696304254
+new [description:"add fingers" entry:"1696304254" modified:"1696304254" project:"tmux" status:"pending" uuid:"835609f6-d8e2-4cc4-b407-e0f5cc490135"]
+---
+time 1696304272
+new [description:"add resurrect" entry:"1696304272" modified:"1696304272" project:"tmux" status:"pending" uuid:"41242ad5-43e5-4df4-9f2a-fbb9b13fb516"]
+---
+time 1696429035
+new [description:"fix messing up tray on DP-2" entry:"1696429035" modified:"1696429035" project:"swaync" status:"pending" uuid:"df519ff4-72c4-47ed-886f-e00a689e744a"]
+---
+time 1696479308
+old [description:"fix messing up tray on DP-2" entry:"1696429035" modified:"1696429035" project:"swaync" status:"pending" uuid:"df519ff4-72c4-47ed-886f-e00a689e744a"]
+new [description:"fix messing up tray on DP-2" end:"1696479308" entry:"1696429035" modified:"1696479308" project:"swaync" status:"completed" uuid:"df519ff4-72c4-47ed-886f-e00a689e744a"]
+---
+time 1696480251
+new [description:"fix toggles open clicking anywhere on waybar" entry:"1696480251" modified:"1696480251" project:"swaync" status:"pending" uuid:"6019a846-9eea-4eae-b09a-8acd383ca5ad"]
+---
+time 1696487982
+new [description:"set up luasnip" entry:"1696487982" modified:"1696487982" project:"nvim" status:"pending" uuid:"713caa2c-6bbf-482a-853e-7c411e6caf03"]
+---
+time 1696487992
+new [description:"set up rust lsp" entry:"1696487992" modified:"1696487992" project:"nvim" status:"pending" uuid:"9121bbca-5a01-43d7-b603-48ce73dcbd75"]
+---
+time 1696488016
+new [description:"set up ftplugin for shell script templates" entry:"1696488016" modified:"1696488016" project:"nvim" status:"pending" uuid:"c306e8cb-10a0-4196-93db-4084d45b1f2c"]
+---
+time 1697278235
+old [description:"add pomodoro" entry:"1696304220" modified:"1696304220" project:"tmux" status:"pending" uuid:"19719e77-9c76-4e69-8ffa-61ae379c8d32"]
+new [description:"add pomodoro" end:"1697278233" entry:"1696304220" modified:"1697278235" project:"tmux" status:"deleted" uuid:"19719e77-9c76-4e69-8ffa-61ae379c8d32"]
+---
+time 1697278269
+new [description:"fix so that pywal colors are set in tmux" entry:"1697278269" modified:"1697278269" project:"tmux" status:"pending" uuid:"3caa9790-76ac-4873-b9df-07a5e2f0aca0"]
+---
+time 1697279866
+new [description:"set up and replace pywal" entry:"1697279866" modified:"1697279866" project:"wallust" status:"pending" uuid:"355f0825-6a2b-4f68-bb59-da7fb92b5cfd"]
+---
+time 1697318386
+new [description:"get clipboard working" entry:"1697318386" modified:"1697318386" project:"qutebrowser" status:"pending" uuid:"a19cedba-3cdb-4480-b29c-cfa69ff494d8"]
+---
+time 1697322119
+new [description:"get printenv hover working" entry:"1697322119" modified:"1697322119" project:"nvim" status:"pending" uuid:"557a41f3-6c46-4dd1-a90f-cd6a5c272106"]
+---
+time 1697325954
+new [description:"get vale latex server working" entry:"1697325954" modified:"1697325954" project:"nvim" status:"pending" uuid:"a20fbd82-5e9d-4948-b4ce-1065a46cc727"]
+---
+time 1697337700
+new [description:"add dap" entry:"1697337700" modified:"1697337700" project:"nvim" status:"pending" uuid:"50a32b21-d18d-4914-9322-cdbc945f1347"]
+---
+time 1697392329
+new [description:"neotree ask which window to open file in" entry:"1697392328" modified:"1697392328" project:"nvim" status:"pending" uuid:"772d7ec2-922c-4e3b-b48c-d3450f39bac0"]
+---
+time 1697519776
+new [description:"get hsl and hs linter working" entry:"1697519776" modified:"1697519776" project:"nvim" status:"pending" uuid:"7bbda10f-1c09-4d5a-824a-013958fc3356"]
+---
